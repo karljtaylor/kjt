@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
+- pages/hey--y-all.md
 - post/this-is-a-new-post.md
