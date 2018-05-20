@@ -82,7 +82,7 @@ paragraph = "It's great to see you here! <i class="fas fa-hand-spock"></i>"
 alt = "Karl Taylor"
 circle = false
 imperfect = true
-src = "/img/main/logo.jpg"
+src = "/static/assets/karljtaylor-typewriter-image.png"
 width = ""
 [params.postamount]
 sidebar = 5
