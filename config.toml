@@ -16,16 +16,11 @@ enableRobotsTXT = true
 identifier = "fa fa-envelope-o"
 name = "Contact"
 url = "/contact/"
-weight = 6
+weight = 5
 [[menu.main]]
 identifier = "fa fa-sitemap"
 name = "Categories"
 url = "/categories/"
-weight = 5
-[[menu.main]]
-identifier = "fa fa-list"
-name = "Itemized"
-url = "/itemized/"
 weight = 4
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
