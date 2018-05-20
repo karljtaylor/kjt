@@ -67,11 +67,11 @@ socialappearattop = true
 socialshare = true
 socialshareemail = true
 socialsharefacebook = true
-socialsharegoogleplus = true
+socialsharegoogleplus = false
 socialsharelinkedin = true
 socialsharepinterest = true
 socialsharereddit = true
-socialsharestumbleupon = true
+socialsharestumbleupon = false
 socialsharetwitter = true
 viewmorepostlink = "/blog/"
 [params.intro]
