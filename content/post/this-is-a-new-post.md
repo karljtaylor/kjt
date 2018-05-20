@@ -4,4 +4,4 @@ draft = true
 title = "This is a new post"
 
 +++
-
+This is a **new** post, like unto the other posts heretofore created. 
