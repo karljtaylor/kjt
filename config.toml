@@ -77,7 +77,7 @@ viewmorepostlink = "/blog/"
 [params.intro]
 about = "I make ads, but I try really hard to make them the good kind."
 header = "Welcome."
-paragraph = "It's great to see you here! <i class='fa fa-hand-peace-o'></i>"
+paragraph = "It's great to see you here! <i class="fas fa-hand-spock"></i>"
 [params.intro.pic]
 alt = "Karl Taylor"
 circle = false
