@@ -13,11 +13,6 @@ title = "Karl Taylor"
 canonifyURLs = true
 enableRobotsTXT = true
 [[menu.main]]
-identifier = "fa fa-envelope-o"
-name = "Contact"
-url = "/contact/"
-weight = 5
-[[menu.main]]
 identifier = "fa fa-sitemap"
 name = "Categories"
 url = "/categories/"
