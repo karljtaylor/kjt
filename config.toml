@@ -1,4 +1,4 @@
-baseurl = "http://blog.karljtaylor.com/"
+baseurl = "https://blog.karljtaylor.com/"
 canonifyURLs = true
 disqusShortname = "shortname"
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ enableRobotsTXT = true
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
-url = "http://blog.karljtaylor.com/?utm_source=karljtaylor&utm_medium=internal%20link&utm_campaign=blog%20site&utm_term=menu&utm_content=blog%20button"
+url = "https://blog.karljtaylor.com/?utm_source=karljtaylor&utm_medium=internal%20link&utm_campaign=blog%20site&utm_term=menu&utm_content=blog%20button"
 weight = 3
 [[menu.main]]
 identifier = "fa fa-id-card-o"
@@ -25,7 +25,7 @@ weight = 2
 [[menu.main]]
 identifier = "fa fa-home"
 name = "Home"
-url = "http://www.karljtaylor.com"
+url = "https://www.karljtaylor.com"
 weight = 1
 [params]
 categoriesbycount = true
