@@ -15,7 +15,7 @@ enableRobotsTXT = true
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
-url = "/blog/"
+url = "http://blog.karljtaylor.com/?utm_source=karljtaylor&utm_medium=internal%20link&utm_campaign=blog%20site&utm_term=menu&utm_content=blog%20button"
 weight = 3
 [[menu.main]]
 identifier = "fa fa-id-card-o"
