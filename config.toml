@@ -1,97 +1,42 @@
-baseurl = "https://blog.karljtaylor.com/"
-canonifyURLs = true
-disqusShortname = "shortname"
-enableRobotsTXT = true
-googleAnalytics = ""
 languageCode = "en-us"
-paginate = 3
-pluralizeListTitles = false
-preserveTaxonomyNames = true
-theme = "hugo-future-imperfect"
 title = "Karl Taylor"
-[SEO]
-canonifyURLs = true
-enableRobotsTXT = true
-[[menu.main]]
-identifier = "fa fa-newspaper-o"
-name = "Blog"
-url = "https://blog.karljtaylor.com/?utm_source=karljtaylor&utm_medium=internal%20link&utm_campaign=blog%20site&utm_term=menu&utm_content=blog%20button"
-weight = 3
-[[menu.main]]
-identifier = "fa fa-id-card-o"
-name = "About"
-url = "/about/"
-weight = 2
-[[menu.main]]
-identifier = "fa fa-home"
-name = "Home"
-url = "https://www.karljtaylor.com"
-weight = 1
+baseurl = "http://www.karljtaylor.com/"
+theme = "aerial"
+
 [params]
-categoriesbycount = true
-customcss = ["default"]
-customjs = ["default"]
-description = "The online home of Karl Taylor"
-disable_highlight = false
-dynamictitles = true
-faviconversion = ""
-highlightjscdn = "//cdn.bootcss.com"
-highlightjslang = ["r", "yaml", "css"]
-highlightjstheme = "github"
-highlightjsversion = "9.11.0"
-includereadingtime = true
-loadfavicon = false
-mathjaxcdn = "//cdn.bootcss.com"
-mathjaxversion = "2.7.1"
-navbartitle = "Karl Taylor"
-rssappearatbottom = true
-rssappearattop = true
-showsidebarcategories = true
-socialappearatbottom = true
-socialappearattop = true
-socialshare = true
-socialshareemail = true
-socialsharefacebook = true
-socialsharegoogleplus = false
-socialsharelinkedin = true
-socialsharepinterest = true
-socialsharereddit = true
-socialsharestumbleupon = false
-socialsharetwitter = true
-viewmorepostlink = "/blog/"
-[params.intro]
-about = "I make ads, but I try really hard to make them the good kind."
-header = "Welcome."
-paragraph = "It's great to see you here!"
-[params.intro.pic]
-alt = "Karl Taylor"
-circle = false
-imperfect = true
-src = "/static/assets/karljtaylor-typewriter-image.png"
-width = ""
-[params.postamount]
-sidebar = 5
-[params.staticman]
-branch = ""
-repo = ""
-staticman = false
-username = ""
-[params.staticman.recaptcha]
-secret = "ENCRYPTED_SECRET"
-sitekey = "SITE_KEY"
-[permalinks]
-post = "/blog/:title/"
-[social]
-behance = "karljtaylor"
-email = "hello@karljtaylor.com"
-facebook = "rolyatjlrak"
-instagram = "karljtaylor"
-linkedin = "karljtaylor"
-medium = "karljtaylor"
-pinterest = "karljtaylor"
-quora = "Karl-Taylor-11"
-reddit = "karljtaylor"
-telegram = "karljtaylor"
-twitter = "karljtaylor"
-whatsapp = "+17206190810"
-youtube = "UCUl7hXpIVxQHdwWIAzkzdmA"
+  name = "Karl Taylor"
+  about = "Marketer &nbsp;&bull;&nbsp; Human &nbsp;&bull;&nbsp; Lover of Sandwiches"
+  copyright = "Karl Taylor"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/karljtaylor"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/rolyatjlrak"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://instagram.com/karljtaylor"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:hello@karljtaylor.com?subject=hey%2C%20karl!&amp;body=hello!"
+
+[[params.social]]
+  medium = "Blog"
+  icon = "pencil"
+  link = "https://blog.karljtaylor.com"
+
+[[params.social]]
+    medium = "linkedin"
+    icon = "linkedin"
+    link = "https://linkedin.com/in/karljtaylor"
