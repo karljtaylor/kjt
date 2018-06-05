@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://blog.karljtaylor.com/"
 canonifyURLs = true
 disqusShortname = "shortname"
 enableRobotsTXT = true
@@ -13,14 +13,9 @@ title = "Karl Taylor"
 canonifyURLs = true
 enableRobotsTXT = true
 [[menu.main]]
-identifier = "fa fa-sitemap"
-name = "Categories"
-url = "/categories/"
-weight = 4
-[[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
-url = "/blog/"
+url = "/posts/"
 weight = 3
 [[menu.main]]
 identifier = "fa fa-id-card-o"
