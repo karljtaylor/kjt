@@ -17,7 +17,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- post/this-is-a-new-post.md
-- pages/hey--y-all.md
-- pages/contact.md
