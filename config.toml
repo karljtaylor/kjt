@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Karl Taylor"
-baseurl = "http://www.karljtaylor.com/"
+baseurl = "https://www.karljtaylor.com/"
 theme = "aerial"
 
 [params]
