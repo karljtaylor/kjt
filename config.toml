@@ -1,4 +1,4 @@
-baseurl = "https://blog.karljtaylor.com/"
+baseurl = "//blog.karljtaylor.com/"
 canonifyURLs = true
 disqusShortname = "shortname"
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ enableRobotsTXT = true
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
-url = "https://blog.karljtaylor.com/?utm_source=karljtaylor&utm_medium=internal%20link&utm_campaign=blog%20site&utm_term=menu&utm_content=blog%20button"
+url = "/blog/"
 weight = 3
 [[menu.main]]
 identifier = "fa fa-id-card-o"
@@ -25,8 +25,13 @@ weight = 2
 [[menu.main]]
 identifier = "fa fa-home"
 name = "Home"
-url = "https://www.karljtaylor.com"
+url = "/"
 weight = 1
+[[menu.main]]
+identifier = "fa fa-envelope-o"
+name = "Contact"
+url = "/contact/"
+weight = 4
 [params]
 categoriesbycount = true
 customcss = ["default"]
@@ -52,13 +57,13 @@ socialappearattop = true
 socialshare = true
 socialshareemail = true
 socialsharefacebook = true
-socialsharegoogleplus = false
+socialsharegoogleplus = true
 socialsharelinkedin = true
 socialsharepinterest = true
 socialsharereddit = true
-socialsharestumbleupon = false
+socialsharestumbleupon = true
 socialsharetwitter = true
-viewmorepostlink = "/blog/"
+viewmorepostlink = "/post/"
 [params.intro]
 about = "I make ads, but I try really hard to make them the good kind."
 header = "Welcome."
@@ -67,7 +72,8 @@ paragraph = "It's great to see you here!"
 alt = "Karl Taylor"
 circle = false
 imperfect = true
-src = "/static/assets/karljtaylor-typewriter-image.png"
+#src = "/static/assets/karljtaylor-typewriter-image.png"
+src = "assets/karljtaylor-typewriter-image.png"
 width = ""
 [params.postamount]
 sidebar = 5
@@ -80,7 +86,9 @@ username = ""
 secret = "ENCRYPTED_SECRET"
 sitekey = "SITE_KEY"
 [permalinks]
-post = "/blog/:title/"
+post = "/post/:filename/"
+#[Permalinks]
+#blog = "/blog/:filename/"
 [social]
 behance = "karljtaylor"
 email = "hello@karljtaylor.com"
