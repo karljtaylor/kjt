@@ -1,4 +1,5 @@
 ---
+label: default
 hide_body: false
 is_partial: false
 fields:
@@ -18,6 +19,6 @@ fields:
   hidden: false
   default: true
 pages:
-- pages/contact.md
-- pages/hey--y-all.md
-- post/this-is-a-new-post.md
+- content/pages/contact.md
+- content/post/this-is-a-new-post.md
+- content/pages/hey--y-all.md
