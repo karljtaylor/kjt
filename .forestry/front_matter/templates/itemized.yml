@@ -64,5 +64,3 @@ fields:
   type: text
   hidden: false
   default: itemized
-pages:
-- content/post/yup.md
