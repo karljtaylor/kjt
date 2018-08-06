@@ -1,18 +1,18 @@
 +++
 author = "Theme author"
 categories = ["Hugo"]
-tags = ["tutorial"]
 date = "2014-09-28"
 description = "Learn how to create a theme on Hugo"
+draft = true
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
 linktitle = ""
+tags = ["tutorial"]
 title = "Creating a New Theme"
 type = "post"
 
 +++
-
 ## Introduction
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
