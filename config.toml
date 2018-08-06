@@ -13,6 +13,11 @@ title = "Karl Taylor"
 canonifyURLs = true
 enableRobotsTXT = true
 [[menu.main]]
+identifier = "fa fa-home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
 url = "/blog/"
@@ -22,16 +27,6 @@ identifier = "fa fa-id-card-o"
 name = "About"
 url = "/about/"
 weight = 2
-[[menu.main]]
-identifier = "fa fa-home"
-name = "Home"
-url = "/"
-weight = 1
-[[menu.main]]
-identifier = "fa fa-envelope-o"
-name = "Contact"
-url = "/contact/"
-weight = 4
 [params]
 categoriesbycount = true
 customcss = ["default"]
@@ -72,7 +67,6 @@ paragraph = "It's great to see you here!"
 alt = "Karl Taylor"
 circle = false
 imperfect = true
-#src = "/static/assets/karljtaylor-typewriter-image.png"
 src = "assets/karljtaylor-typewriter-image.png"
 width = ""
 [params.postamount]
@@ -87,8 +81,6 @@ secret = "ENCRYPTED_SECRET"
 sitekey = "SITE_KEY"
 [permalinks]
 post = "/post/:filename/"
-#[Permalinks]
-#blog = "/blog/:filename/"
 [social]
 behance = "karljtaylor"
 email = "hello@karljtaylor.com"
