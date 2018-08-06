@@ -10,23 +10,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: about
-  label: About
-  create: all
-  match: "**/*"
-- type: directory
   path: content/blog
   label: blog
-  create: all
-  match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/pages
-  label: Pages
   create: all
   match: "**/*"
 - type: directory
@@ -34,6 +19,16 @@ sections:
   label: Post
   create: all
   match: "**/*"
+- type: directory
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/assets
 public_path: "/assets"
 front_matter_path: ''
