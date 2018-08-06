@@ -3,6 +3,7 @@ author = "Hugo author"
 categories = ["Hugo"]
 date = "2014-04-02"
 description = ""
+draft = true
 featured = "pic01.jpg"
 featuredalt = "Pic 1"
 featuredpath = "date"
@@ -11,7 +12,6 @@ title = "Getting Started with Hugo"
 type = "post"
 
 +++
-
 ## Step 1. Install Hugo
 
 Go to [hugo releases](https://github.com/spf13/hugo/releases) and download the
