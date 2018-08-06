@@ -55,4 +55,5 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/how-i-learned-to-love-pulp-or-on-the-occasion-of-the-birth-of-lewis-fry-richardson.md
 - content/blog/there.md
