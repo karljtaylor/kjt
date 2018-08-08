@@ -1,6 +1,6 @@
 baseurl = "//blog.karljtaylor.com/"
 canonifyURLs = true
-disqusShortname = "shortname"
+disqusShortname = "karljtaylor"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
