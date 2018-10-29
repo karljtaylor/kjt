@@ -13,3 +13,7 @@ type = "post"
 
 +++
 ![](/static/assets/karl taylor the way things go.jpg)I've always been fascinated 
+
+x
+
+That's why
