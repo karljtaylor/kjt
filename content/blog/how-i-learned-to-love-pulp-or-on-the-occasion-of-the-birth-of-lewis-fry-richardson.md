@@ -44,7 +44,7 @@ type = "post"
 
 <p>I would get questions from friends and visitors that would require me to reflect on what I had learned. Sometimes, they were questions about technical things like how one might measure this or isolate that. Other times, they were questions of detailed and methodical process. Of the history of process. On rare and cherished occasions, they were long conversations about a feeling.</p>
 
-<div class="separator" style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="![](https://1.bp.blogspot.com/-caAJKfl0rSQ/Wd5SIxdIDbI/AAAAAAAAACY/TWfY7sN0rHUS7pD6nN9JtxSQTBfdz2x9gCLcBGAs/s1600/Image-1%2B%25281%2529.jpg)"><img src="{{ site.baseurl }}/assets/Image-1%2B%25281%2529.jpg" width="320" height="320" border="0" data-original-height="1080" data-original-width="1080" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="![](https://1.bp.blogspot.com/-caAJKfl0rSQ/Wd5SIxdIDbI/AAAAAAAAACY/TWfY7sN0rHUS7pD6nN9JtxSQTBfdz2x9gCLcBGAs/s1600/Image-1%2B%25281%2529.jpg)"><img src="{{ site.baseurl }}/static/assets/Image-1%2B%25281%2529.jpg" width="320" height="320" border="0" data-original-height="1080" data-original-width="1080" /></a></div>
 
 <p>On these and many other topics, I was dutiful participant, offering up what I could to point someone in the direction of something they may find of benefit. On rare occasion, I would note with a tinge of envy the enthusiasm for an idea each person I interacted with seemed to have.</p>
 
