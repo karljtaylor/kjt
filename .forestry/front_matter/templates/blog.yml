@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/some-thoughts-about-facebook-lite.md
 - content/blog/how-i-learned-to-love-pulp-or-on-the-occasion-of-the-birth-of-lewis-fry-richardson.md
 - content/blog/there.md
 - content/blog/how-i-learned-to-love-pulp-or-on-the-occasion-of-the-birth-of-lewis-fry-richardson.md
