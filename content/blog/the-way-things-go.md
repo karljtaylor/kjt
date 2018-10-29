@@ -14,6 +14,6 @@ type = "post"
 +++
 ![](/static/assets/karl taylor the way things go.jpg)I've always been fascinated 
 
-x
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NKgthAuKSzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 That's why
