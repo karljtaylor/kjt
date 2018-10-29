@@ -11,6 +11,10 @@ title = "There."
 type = "post"
 
 +++
-I haven't quite decided what to do with the past few years of posts, but they're here.   
-  
-There's something appealing about starting over though, even if it is in an incredibly limited capacity, and I suppose at some point this week I'll have to actually make good on my commitment to do a little more of this sort of thing. 
+I'm happy to have a new site up! 
+
+I haven't really bothered to go through the process of updating links and making sure old content is suuuuupppper readable on this new site. I know that means a few things are really broken, if you want to read them again, let me know! 
+
+In the meantime, take a look around! 
+
+Might not be too much to see, but I'll take care of that soon! 
