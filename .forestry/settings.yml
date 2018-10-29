@@ -29,8 +29,8 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: static/assets
-public_path: "/public/static/assets"
+upload_dir: content/assets
+public_path: content/assets
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
