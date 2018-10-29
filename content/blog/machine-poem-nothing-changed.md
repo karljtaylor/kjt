@@ -2,8 +2,7 @@
 author = "karl taylor"
 categories = [""]
 date = "2018-08-14T17:15:44-06:00"
-description = ""
-draft = true
+description = "generated text."
 featured = ""
 featuredalt = ""
 featuredpath = ""
