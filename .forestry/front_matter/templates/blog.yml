@@ -55,6 +55,9 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/machine-poem-nothing-changed.md
+- content/blog/machine-poem-none.md
+- content/blog/making-connections.md
 - content/blog/making-connections.md
 - content/blog/there.md
 - content/blog/the-way-things-go.md
@@ -64,4 +67,3 @@ pages:
 - content/blog/a-thought-about-brands-and-halloween.md
 - content/blog/the-way-things-go.md
 - content/blog/there.md
-- content/blog/how-i-learned-to-love-pulp-or-on-the-occasion-of-the-birth-of-lewis-fry-richardson.md
