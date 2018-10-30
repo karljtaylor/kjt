@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/making-connections.md
 - content/blog/there.md
 - content/blog/the-way-things-go.md
 - content/blog/machine-poem-none.md
