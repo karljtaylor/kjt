@@ -61,7 +61,7 @@ socialsharetwitter = true
 viewmorepostlink = "/post/"
 [params.intro]
 about = "I make ads, but I try really hard to make them the good kind."
-header = "Welcome."
+header = "Welcome!"
 paragraph = "It's great to see you here!"
 [params.intro.pic]
 alt = "Karl Taylor"
