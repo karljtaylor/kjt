@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/there.md
 - content/blog/the-way-things-go.md
 - content/blog/machine-poem-none.md
 - content/blog/machine-poem-nothing-changed.md
@@ -63,4 +64,3 @@ pages:
 - content/blog/the-way-things-go.md
 - content/blog/there.md
 - content/blog/how-i-learned-to-love-pulp-or-on-the-occasion-of-the-birth-of-lewis-fry-richardson.md
-- content/blog/there.md
