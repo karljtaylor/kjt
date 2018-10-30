@@ -11,7 +11,7 @@ title = "the way things go"
 type = "post"
 
 +++
-![](content/assets/karl-taylor_the-way-things-go.jpg)
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/static/assets/karl-taylor_the-way-things-go.jpg)
 
 I've always been fascinated by the idea that with a little bit of time you can actually accomplish quite a few things on your own that really even just a few years ago would have taken either a handful of people or a lot more time than it does today.
 
