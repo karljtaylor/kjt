@@ -11,9 +11,9 @@ title = "Machine Poem: Nothing Changed"
 type = "post"
 
 +++
-![](content/assets/karl-taylor_machine-poems.jpg)
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/static/assets/karl%20taylor%20machine%20poems.jpg)
 
-_I've been playing around with different methods of text generation, and I noticed more than a few of these sounded reasonably poetic, so I thought I'd share._ 
+_I've been playing around with different methods of text generation, and I noticed more than a few of these sounded reasonably poetic, so I thought I'd share._
 
 # **nothing changed**
 
