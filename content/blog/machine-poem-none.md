@@ -11,7 +11,9 @@ title = "Machine Poem: None"
 type = "post"
 
 +++
-![](content/assets/karl-taylor_machine-poems.jpg)_I've done a little more fiddling, here's another. Miss the first one?_ 
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/static/assets/karl%20taylor%20machine%20poems.jpg)
+
+_I've done a little more fiddling, here's another. Miss the first one?_
 
 # none
 
@@ -19,9 +21,9 @@ it wasn't quite relatable,
 
 we are all distracted by produce.
 
-they walked through 
+they walked through
 
-an examination of the phrase 
+an examination of the phrase
 
 when applied to all.
 
