@@ -4,3 +4,13 @@
   analytics.page();
   }}();
 </script>
+<script>
+  <script type="text/javascript">
+    var link = document.getElementByID('{{ .medium }}');
+    analytics.trackLink(link, 'CTA Clicked',  {
+      location: 'Social Button'
+      network: '{{ .medium }},
+      type: 'Button',
+      pageTitle: document.title
+    });
+</script> 
