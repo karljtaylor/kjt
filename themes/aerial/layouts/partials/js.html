@@ -9,7 +9,7 @@
     var link = document.getElementByID('{{ .medium }}');
     analytics.trackLink(link, 'CTA Clicked',  {
       location: 'Social Button'
-      network: '{{ .medium }},
+      network: '{{ .medium }}',
       type: 'Button',
       pageTitle: document.title
     });
