@@ -31,7 +31,7 @@
 						<nav>
 							<ul>
 								{{ range .Site.Params.social }}
-								<li><a href="{{ .link | safeURL }}" id='{{ .medium }}' class="icon fa-{{ .icon }}"><span class="label">{{ .medium }}</span></a></li>
+								<li><a href="{{ .link | safeURL }}" id="social_click" class="icon fa-{{ .icon }}"><span class="label">{{ .medium }}</span></a></li>
 								{{ end }}
 							</ul>
 						</nav>
@@ -53,7 +53,7 @@
     {{ partial "js.html" . }}
 		<script>
   <script type="text/javascript">
-    var link = document.getElementByID('{{ .Site.Params.social.medium }}');
+    var link = document.getElementByID("social_click");
     analytics.trackLink(link, 'CTA Clicked',  {
       location: 'Social Button'
       network: '{{ .medium }}',
