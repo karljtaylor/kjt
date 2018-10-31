@@ -6,7 +6,7 @@
 </script>
 <script>
   <script type="text/javascript">
-    var link = document.getElementByID('{{ .medium }}');
+    var link = document.getElementByID('{{ params.social.medium }}');
     analytics.trackLink(link, 'CTA Clicked',  {
       location: 'Social Button'
       network: '{{ .medium }}',
