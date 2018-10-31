@@ -53,7 +53,7 @@
     {{ partial "js.html" . }}
 		<script>
   <script type="text/javascript">
-    var link = document.getElementByID('{{ Site.Params.social.medium }}');
+    var link = document.getElementByID('{{ .Site.Params.social.medium }}');
     analytics.trackLink(link, 'CTA Clicked',  {
       location: 'Social Button'
       network: '{{ .medium }}',
