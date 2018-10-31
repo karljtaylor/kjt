@@ -51,5 +51,15 @@
 		</script>
 
     {{ partial "js.html" . }}
+		<script>
+  <script type="text/javascript">
+    var link = document.getElementByID('{{ Site.params.social.medium }}');
+    analytics.trackLink(link, 'CTA Clicked',  {
+      location: 'Social Button'
+      network: '{{ .medium }}',
+       type: 'Button',
+       pageTitle: document.title
+     });
+ </script> 
 	</body>
 </html>
