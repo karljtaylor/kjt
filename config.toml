@@ -1,4 +1,4 @@
-baseurl = "//blog.karljtaylor.com/"
+baseurl = "https://blog.karljtaylor.com/"
 canonifyURLs = true
 disqusShortname = "karljtaylor"
 enableRobotsTXT = true
