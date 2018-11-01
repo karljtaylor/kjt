@@ -11,7 +11,7 @@ title = "Machine Poem: None"
 type = "post"
 
 +++
-![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/static/assets/karl%20taylor%20machine%20poems.jpg)
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl%20taylor%20machine%20poems.jpg)
 
 _I've done a little more fiddling, here's another. Miss the first one?_
 
