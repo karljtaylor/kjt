@@ -14,6 +14,7 @@ title = "how i'm (mostly) buying instagram ads."
 type = "itemized"
 
 +++
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor-how-im-mostly-buying-instagram-ads.jpg)
 
 I've really loved Apple's Screen Time feature. It's got me paying more attention to what I'm doing and being a little more intentional with the way I use some of the different apps I've come to rely on. One thing it's taught me is that I spend way too much time on Quora.
 
