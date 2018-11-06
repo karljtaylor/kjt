@@ -14,7 +14,7 @@ title = "the most important election of our lifetimes, 2018 edition"
 type = "itemized"
 
 +++
-![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor-election-day.jpg)
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl%20taylor%20election%20day.jpg)
 
 Like a lot of people, I spend an unhealthy amount of time watching the news. At this very moment, I can distinctly recall describing nine different elections as "the most important election of our lifetime." 
 
