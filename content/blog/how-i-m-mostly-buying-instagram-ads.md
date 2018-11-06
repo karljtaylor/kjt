@@ -3,7 +3,6 @@ author = "karl taylor"
 categories = []
 date = "2018-11-02T20:38:04-07:00"
 description = "instagram ads work a lot better when you create them from the instagram app."
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
