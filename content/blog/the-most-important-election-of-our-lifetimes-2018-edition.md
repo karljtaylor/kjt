@@ -3,7 +3,6 @@ author = ""
 categories = ["politics"]
 date = "2018-11-06T11:08:38-00:01"
 description = ""
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -40,4 +39,4 @@ There's not really much the people who make these interfaces can do, as there's 
 
 All in all, a relatively uneventful experience--which is exactly why it's so important to vote. 
 
-Happy E-Day, Y'all! 
+Happy E-Day, Y'all!
