@@ -14,6 +14,8 @@ title = "the most important election of our lifetimes, 2018 edition"
 type = "itemized"
 
 +++
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl taylor election day.jpg)
+
 Like a lot of people, I spend an unhealthy amount of time watching the news. At this very moment, I can distinctly recall describing nine different elections as "the most important election of our lifetime." 
 
 The nice thing about a phrase like that is really, everything you're doing ought to be the most important thing you're doing when you're doing it. It's just broad enough of a phrase to gather in a whole host of sentiments, and try to wrap them up with something we marketers often call "urgency." 
