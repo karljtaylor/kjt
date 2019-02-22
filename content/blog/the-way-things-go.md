@@ -11,6 +11,14 @@ title = "the way things go"
 type = "post"
 
 +++
+<meta property="og:title" content="The Way Things Go">
+<meta property="og:description" content="In the last few years, it's gotten a lot easier to make things by yourself.">
+<meta property="og:image" content="https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor_the-way-things-go.jpg">
+<meta property="og:url" content="https://blog.karljtaylor.com/blog/the-way-things-go/">
+<meta name="twitter:title" content="The Way Things Go">
+<meta name="twitter:description" content="In the last few years, it's gotten a lot easier to make things by yourself.">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor_the-way-things-go.jpg">
+<meta name="twitter:card" content="summary_large_image">
 ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor_the-way-things-go.jpg)
 
 I've always been fascinated by the idea that with a little bit of time you can actually accomplish quite a few things on your own that really even just a few years ago would have taken either a handful of people or a lot more time than it does today.

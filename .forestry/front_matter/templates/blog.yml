@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/the-way-things-go.md
 - content/blog/personal-okrs-2019.md
 - content/blog/the-way-things-go.md
 - content/blog/machine-poem-nothing-changed.md
@@ -62,7 +63,6 @@ pages:
 - content/blog/there.md
 - content/blog/a-thought-about-brands-and-halloween.md
 - content/blog/a-thought-about-brands-and-halloween.md
-- content/blog/the-way-things-go.md
 - content/blog/there.md
 - content/blog/making-connections.md
 - content/blog/machine-poem-none.md
