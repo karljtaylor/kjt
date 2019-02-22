@@ -1,5 +1,5 @@
 baseurl = "https://blog.karljtaylor.com/"
-canonifyURLs = true
+canonifyURLs = false
 disqusShortname = "karljtaylor"
 enableRobotsTXT = true
 googleAnalytics = ""
