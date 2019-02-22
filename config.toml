@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 theme = "hugo-future-imperfect"
 title = "Karl Taylor"
 [SEO]
-canonifyURLs = true
+canonifyURLs = false
 enableRobotsTXT = true
 [[menu.main]]
 identifier = "fa fa-home"
