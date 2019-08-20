@@ -1,7 +1,6 @@
 ---
 label: default
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -19,7 +18,8 @@ fields:
   hidden: false
   default: true
 pages:
-- content/pages/hey--y-all.md
+- content/pages/the-end-is-not-yet.md
 - content/pages/contact.md
+- content/pages/hey--y-all.md
 - content/pages/contact.md
 - content/pages/hey--y-all.md
