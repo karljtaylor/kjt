@@ -1,6 +1,5 @@
 +++
 date = "August 16, 2019"
-draft = true
 title = "The End is Not Yet"
 
 +++
