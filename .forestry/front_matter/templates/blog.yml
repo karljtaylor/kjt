@@ -54,10 +54,14 @@ fields:
   hidden: false
   default: post
 pages:
+- content/blog/personal-okrs-2019.md
+- content/blog/the-way-things-go.md
+- content/blog/machine-poem-none.md
+- content/blog/machine-poem-nothing-changed.md
+- content/blog/evolution-video.md
+- content/blog/leaving-sfo.md
 - content/blog/leaving-sfo.md
 - content/blog/evolution-video.md
-- content/blog/machine-poem-nothing-changed.md
-- content/blog/machine-poem-none.md
 - content/blog/making-connections.md
 - content/blog/machine-poem-nothing-changed.md
 - content/blog/the-way-things-go.md
@@ -68,5 +72,3 @@ pages:
 - content/blog/there.md
 - content/blog/machine-poem-none.md
 - content/blog/personal-okrs-2019.md
-- content/blog/personal-okrs-2019.md
-- content/blog/the-way-things-go.md

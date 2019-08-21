@@ -19,6 +19,7 @@ fields:
   default: true
 pages:
 - content/pages/the-end-is-not-yet.md
+- content/pages/the-end-is-not-yet.md
 - content/pages/contact.md
 - content/pages/hey--y-all.md
 - content/pages/contact.md
