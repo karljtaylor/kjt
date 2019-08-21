@@ -3,7 +3,6 @@ author = "karl taylor"
 categories = ["", "videos"]
 date = "07/16/19"
 description = "A project I worked on a little while ago. "
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
