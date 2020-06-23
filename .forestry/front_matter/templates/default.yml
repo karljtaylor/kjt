@@ -1,7 +1,6 @@
 ---
 label: default
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -18,3 +17,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/privacy-policy.md
