@@ -1,6 +1,5 @@
 +++
 date = "June 23, 2020"
-draft = true
 title = "Privacy Policy"
 
 +++
