@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["growth", "marketing"]
-date= 2015-06-08 19:56:09 +0000
+date= 2015-06-08 19:56:09
 type= "post"
 featured= ""
 featuredalt= ""
