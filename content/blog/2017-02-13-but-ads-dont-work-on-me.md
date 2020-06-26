@@ -6,41 +6,41 @@ title= "“But Ads Don’t Work On Me.”"
 type = "post"
 +++
 
- #### Why It May Be Time To Rethink Your Skepticism
+\#\### Why It May Be Time To Rethink Your Skepticism
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/92a05-1m3phdxtn79nxpas94eqfzw.png)  
+  ![][image-1]  
 
 
  I still remember the first time I studied ads in school — it helped that it was eighth grade english.
 
  The unit took a few weeks, and in hindsight it had to have been written by advertisers. I say that because one of the key learnings was that the most important part of any advertisement was the “call to action.” My teacher explained that by studying the call to action you could “get behind” the persuasion of any advertisement, and by thinking critically about the world around you blah blah blah blah blah.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/a9a69-1kxgyuku_gvydi7xplzvdzq.jpeg)  
+  ![][image-2]  
 
 
  If I had known then what I now know, I’d have ruined that class by suggesting that the only thing you’d get out of paying attention to the call to action is a lifetime of disappointment and sucker’s bets.
 
  The truth is, if you think “ads don’t work on you,” I can probably tell you a handful of other things you think about yourself too. You likely prefer to dress in earth tones, you aren’t likely to be reached in a radio audience (unless it’s a campus station or the current,) you strongly identify with statements like “I go my own way,” or “Never Settle For Anyone Who Makes You Feel Like an Option…” I could keep going.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/bd626-1atfrsihme-wnbojypa5vxa.png)  
+  ![][image-3]  
 
 
  You wouldn’t ever identify with all of the traits I might list, but you’d identify with enough, you might start to wonder how original your rebellion really is.
 
  That’s the trouble with paying attention to the call to action, it’s often the least insightful part of any advertisement.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/9764c-1ndxiadetcscofnpf7pwuga.jpeg)  
+  ![][image-4]  
 
 
  This is the case for two reasons.
 
  The first is the simplest, if marketers like me had our way, we would never ever run another ad “selling the product,” ever again.
 
- “[Widget, 5$](https://analytics.sonnetaylor.com/the-problem-with-widget-5-219efdf9466e#.849cmy6q3)” used to be everything. When you clearly define what a product is and who it is for, you also define what it is not, and who it is not for.
+ “[Widget, 5$][1]” used to be everything. When you clearly define what a product is and who it is for, you also define what it is not, and who it is not for.
 
  I have a pretty unique diet, and I’ve got relationships with brands that only my “unique diet friends” know about. You can see this happen all over the place if you have a few friends who are all into different things. Have a friend that’s “really into guitars?” they’ll likely have very identifiable divergences from the “average consumer” pattern.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/69b12-1ohplfl2vhwkkr9py9nnz9q.png)  
+  ![][image-5]  
 
 
  There’s nothing wrong with this, of course. You can’t sell a product people don’t understand, but carried to an extreme the impulse to make this kind of ad is also responsible for some of the worst examples of advertising.
@@ -57,7 +57,7 @@ type = "post"
 
  If I buy :30 of airtime, that’s an ad.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/24741-12u0nzyzzfxgrdupsmzpftw.png)  
+  ![][image-6]  
 
 
  Some digital inventory products (say Snapchat Filters) actually work in a fairly similar way.
@@ -70,7 +70,7 @@ type = "post"
 
  Many times the ability to create ads in this manner proves to be a valuable feature of the publishing platforms that offer the capability.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/d22fa-1uzlyz48z0zplorhenxb5lw.jpeg)  
+  ![][image-7]  
 
 
  That means that on a platform like Facebook it’s not uncommon for an advertiser like myself to use the same image and copy to create hundreds and thousands of ads. Each ad is part of a search for just the right balance of customers.
@@ -81,7 +81,7 @@ type = "post"
 
  I started this article by explaining that I didn’t think that class was very good because it must have been written by advertisers. The truth is, that if you only look at the clicks, you’ll miss all of this nuance that I’ve pointed out. If you wanted to start to notice modern ads in the same way, it might be better to ask “why am I seeing this, here, now?”
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/4ae5c-1qpfddij7pmxipo_1uq2oqw.jpeg)  
+  ![][image-8]  
 
 
  I added that storm of commas on purpose.
@@ -96,7 +96,7 @@ type = "post"
 
  In addition, the choice of “Facebook vs Twitter” (or “Facebook vs A Billboard” for that matter) has real consequences. You should consider them.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b990f-1gabo9zyxaw85szmjakqxbw.png)  
+  ![][image-9]  
 
 
  The third and final question you need to ask yourself to understand a modern ad is why am I seeing this ad right now.
@@ -104,3 +104,15 @@ type = "post"
  We spend a lot of time thinking about the different ways we can reach potential customers at exactly the right moment — but I don’t encounter many people who think about the fact that the news they get at 12:00 is different than the news they get at 5:00. Every advertiser I’ve ever met has an opinion on dayparting.
 
  It might still make sense to think about the “call to action,” but if you can try and remember those three questions, I think you’ll keep yourself from falling prey to most of our dirty tricks.
+
+[1]:	https://analytics.sonnetaylor.com/the-problem-with-widget-5-219efdf9466e#.849cmy6q3
+
+[image-1]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/92a05-1m3phdxtn79nxpas94eqfzw.png
+[image-2]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/a9a69-1kxgyuku_gvydi7xplzvdzq.jpeg
+[image-3]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/bd626-1atfrsihme-wnbojypa5vxa.png
+[image-4]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/9764c-1ndxiadetcscofnpf7pwuga.jpeg
+[image-5]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/69b12-1ohplfl2vhwkkr9py9nnz9q.png
+[image-6]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/24741-12u0nzyzzfxgrdupsmzpftw.png
+[image-7]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/d22fa-1uzlyz48z0zplorhenxb5lw.jpeg
+[image-8]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/4ae5c-1qpfddij7pmxipo_1uq2oqw.jpeg
+[image-9]:	https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b990f-1gabo9zyxaw85szmjakqxbw.png
