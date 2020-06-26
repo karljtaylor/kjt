@@ -1,0 +1,83 @@
++++
+author = "karl taylor"
+categories= ["marketing", "facebook", "startups"]
+date= 2017-04-17T21:48:56
+title= "How Can You Make Sure That You’re Getting Social Media Reach?"
+
++++
+
+  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/aff9a-1w-rqsjipqnsh6jhw3cs9ow.png)  
+
+
+ One of the rather curious things I have observed in my time working in this space is that overtime a particularly nuanced term will become adopted by a large class of folks who seem to understand it very shallowly. It will then be rebuffed by a smaller class of more vocal folk who feel everything is subpar. After a while, the term’s meaning can become so bruised as to defy resemblance to the original concept.
+
+  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1ef60-1zzmn3x-mekkeod5iknwo5w.jpeg)  
+
+
+ I think that if you’re asking yourself this question it’s probably a good idea for you to take a few minutes with me to explore some ideas about what we really mean when we talk about impressions, reach and frequency.
+
+ I think there are many ways one can explore these relationships, but I want to a moment to write up one I’ve always found more helpful than the others.
+
+ If you’re reading this, there is a nonzero chance that a smartphone is within armspan. If you happen to be reading this in a crowded space, it likely holds true for a significant percentage of the people you observe as well.
+
+ When I was first beginning my career, I got a piece of advice that was really helpful. It was suggested I spend a little time looking at people in public on their phones.
+
+ I found a spot and decided to stop by each day at the same time during lunch. I sat for ten minutes as I ate and counted the number “phone checks” I saw as well as the number of people. Coming at the same time and sticking to the same place was fairly helpful because I could compare my numbers and come up with averages based on what I found out.
+
+  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/cfb2d-1bevngi-a_ujxuzcjateabq.jpeg)  
+
+
+ As I watched, I couldn’t help but to think of something.
+
+ Each one of those phones has a world inside of it — for many of us, more than one.
+
+ They exist on forums accessed via webapps. They exist inside of native streaming content apps. They exist on albums and in digital newspapers.
+
+ While those worlds are accessed through programs, the truth is that in most of those sorts of cases the digital activity has an obvious offline analog. Though purists may object if you’re looking at the world from a post as media nutritionist, streaming an album isn’t that much different from spinning a CD.
+
+ If you wanted to, you could measure how long someone spends on each activity.
+
+  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/c7b28-1cm6tky0qll5yxlxe5ku6bw.jpeg)  
+
+
+ In the years since, it’s gotten a little more complex. Whole universes can exist on native chat apps clustered into message threads. You can’t always track those — yet. The truth is, we miss a lot of details.
+
+ When you’re buying an ad, a lot of times you’re renting access to an audience for a chunk of time. When you’re designing a marketing program that includes an advertising plank, you’ve got to ask yourself about what percentage of your target audience’s media consumption you can afford to purchase. If you aren’t thinking about the whole person, you’re missing out.
+
+ A lot of advertisers I’ve had the pleasure of working with learn a version of that trick to help evaluate which channels make sense for which business. That same trick makes thinking about these concepts feel a little more intuitive.
+
+ I think maybe that’s why sometimes as a business owner you may encounter the rather frustrating situation where every communications professional you meet seems to give you the same news. While it might seem like that would feel like a sign, I’ve heard it can feel a lot more like being ignored.
+
+ When your team plans that advertising program, they should be asking themselves questions about what they expect from each channel they include in the mix. Without answers to those sorts of questions, you end up setting performance expectations that are vague and poorly defined.
+
+ Without that bit of context, you won’t know how to interpret your initial results to figure out the rate at which your prospects convert.
+
+ That can in turn mean that when it comes time to scale up your budget, figuring out how many people you need to target and how often they need to see your message is also more difficult than it needs to be.
+
+ When you start off by asking “how can we get reach,” you’re leaving opportunity on the table.
+
+  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1c9a3-1gf-q2lalbmfvi_h3jorc0q.jpeg)  
+
+
+ I would suggest that if you find yourself here you instead stop and ask yourself if the activity you’re promoting is the sort of thing an interested customer would want to share with their family or friends.
+
+ (quick editorial note here: I know that some colleagues find it’s easier to ask if a content idea is something you would show your own family, but I always worry this encourages an overweighting of personal experience. If you’re capable of putting your experiences back in context, great. If not, I don’t think it’s easier to observe the dynamic at work in the lives of others. It’s a little different for everyone.)
+
+ While it’s likely most of your audience has Facebook, the truth is even if you’ve made the best most authentic experience out there, they can only see your content if they’re active on the platform. A lot of people just aren’t.
+
+ The percentage at which the general public has encountered the “[new digital economy](http://www.pewinternet.org/2016/05/19/the-new-digital-economy/),” isn’t quite as ubiquitous as one might think.
+
+ Stop and reflect on the percentage of time each user could spend exposed to your channel and the percentage of time they spend on those channels. Ask yourself how long you’d like to linger and what sort of impact you’d like to have.
+
+ If you’re particularly worried about encouraging additional “earned” engagements, spend some time considering the rate at which your existing content is shared. In many cases, you may find that simple modifications to process can result in big performance wins.
+
+ In others, you may find that some of the most popular advertising channels just don’t make sense for your business right now.
+
+  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/77379-1wptbldizjlsgrksestzpua.jpeg)  
+
+
+ There isn’t anything wrong with that.
+
+ When I first learned Facebook Ads, they were new. They were cheap. No one understood them. It isn’t like that anymore. But the truth is that Facebook becoming an evergreen channel doesn’t mean that those opportunities or opportunities like them are gone forever.
+
+ At the risk of overindulging that old entrepreneurial cliche you really can find one wherever people spend their time.
