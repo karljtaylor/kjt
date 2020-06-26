@@ -95,3 +95,5 @@ telegram = "karljtaylor"
 twitter = "karljtaylor"
 whatsapp = "+17206190810"
 youtube = "channel/UCUl7hXpIVxQHdwWIAzkzdmA"
+[params.sidebar]
+categories          = false
