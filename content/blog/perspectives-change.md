@@ -73,9 +73,9 @@ As I walked back up the stairs to my apartment, I realized that it would be some
     display: flex;
     align-items: center;
     flex-direction: column;
-"><label for="tlemail">Enter your email address</label>
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
      <input type="text" name="email" id="tlemail" style="
     width: 140px;
 "></p>
-   <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe">
+   <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
 </form>
