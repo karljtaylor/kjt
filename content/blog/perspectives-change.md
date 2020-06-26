@@ -1,9 +1,8 @@
 +++
 author = "karl taylor"
 categories = ["writing"]
-date = ""
-description = "A lesson I learned from exploring my family history. "
-draft = true
+date = "June 29, 2019"
+description = "I thought how strange it was, the myriad of events that had brought me to this very place, and as I drove back, I couldn’t help but reflect on just how rocky they had been, too.  As I walked back up the stairs to my apartment, I realized that it would be some time before I could ever live in a place like that, but I knew that I could, and it felt like that mattered."
 featured = ""
 featuredalt = ""
 featuredpath = ""
