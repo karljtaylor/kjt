@@ -2,8 +2,7 @@
 author= "karl taylor"
 categories= ["facebook", "fitness"]
 date= 2016-07-28T20:29:14
-title= "Why Weight Loss Products Are Stalking Your Timeline And What You Can Do About
-  It"
+title= "Why Weight Loss Products Are Stalking Your Timeline And What You Can Do About It"
 
 +++
 

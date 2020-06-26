@@ -2,8 +2,7 @@
 categories= ["marketing", "advice"]
 date= 2016-10-18T18:54:45
 author = "karl taylor"
-title= "The Three Skills I’d Suggest Those Looking To Start A Career In Digital Media
-  Hone."
+title= "The Three Skills I’d Suggest Those Looking To Start A Career In Digital Media Hone."
 
 +++
 

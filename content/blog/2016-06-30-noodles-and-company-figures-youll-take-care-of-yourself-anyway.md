@@ -1,8 +1,8 @@
 +++
-author= "karl taylor"
-categories= ["bad advertising"]
-date= 2015-06-30T00:52:31 
-title= "Noodles and Company Figures You’ll Take Care Of Yourself, Anyway.""
+author = "karl taylor"
+categories = ["bad advertising"]
+date = 2015-06-30T00:52:31
+title = "Noodles and Company Figures You’ll Take Care Of Yourself, Anyway."
 
 +++
 Earlier today, I read that I and many other Noodles customers, were involved in a data breach.

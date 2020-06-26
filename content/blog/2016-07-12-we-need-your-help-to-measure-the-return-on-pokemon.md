@@ -1,8 +1,8 @@
 +++
 author= "karl taylor"
 categories= ["marketing", "pokemon", "outdoor advertising"]
-date= 2015-07-12T17:25:43 
-title= "We Need Your Help To Measure The Return On Pokemon.""
+date= 2015-07-12T17:25:43
+title= "We Need Your Help To Measure The Return On Pokemon."
 
 +++
 Those of you who follow us closely, know that for the past week, we’ve working on a study of the return on investment associated with the use of Pokemon Lures.

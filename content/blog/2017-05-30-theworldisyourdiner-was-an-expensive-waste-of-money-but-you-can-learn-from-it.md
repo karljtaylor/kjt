@@ -2,8 +2,7 @@
 categories= ["startups", "marketing", "bad advertising", "growth"]
 date= 2017-05-30T17:43:42
 author = "karl taylor"
-title = "TheWorldIsYourDiner Was An Expensive Waste Of Money: But You Can Learn From
-  It."
+title = "TheWorldIsYourDiner Was An Expensive Waste Of Money: But You Can Learn From It."
 
 +++
 

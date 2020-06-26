@@ -1,9 +1,8 @@
 +++
 author= "karl taylor"
 categories= ["holidays", "design"]
-date= 2015-07-04T21:33:22 
-title = "A Jog Through The Only Story of The Origin Of That Black Flag You’ll See A
-  Lot On The Fourth Of July"
+date= 2015-07-04T21:33:22
+title = "A Jog Through The Only Story of The Origin Of That Black Flag You’ll See A Lot On The Fourth Of July"
 
 +++
 *If you’ll forgive my click-baity headline, I promise it really will be worth the time. See, I am horrible about not working on holidays. A few years ago, I came up with a technique to try and be a little bit better about it. From time to time I put together an email highlighting a detail from history I found worth remembering, and a few links to read further. I figured this Fourth of July, I’d share.*

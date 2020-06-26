@@ -1,6 +1,6 @@
 +++
 categories= ["holidays", "veterans"]
-date= 2016-11-11T18:47:49 2016-11-11 18:47:49 +0000
+date= 2016-11-11T18:47:49 
 author = "karl taylor"
 title= "This Veteran’s Day"
 

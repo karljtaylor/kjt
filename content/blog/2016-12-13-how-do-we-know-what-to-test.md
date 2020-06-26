@@ -1,6 +1,6 @@
 +++
 categories: ["analytics", "marketing", "startups"]
-date: 2016-12-13T04:53:19
+date= 2016-12-13T04:53:19
 author = "karl taylor"
 title= "How Do We Know What To Test?"
 

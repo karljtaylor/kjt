@@ -1,6 +1,6 @@
 +++
-categories: ["startups"]
-date: 2016-10-15T07:14:22 
+categories= ["startups"]
+date= 2016-10-15T07:14:22 
 author = "karl taylor"
 title= "The Accursed Thing."
 

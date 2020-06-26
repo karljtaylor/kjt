@@ -2,8 +2,7 @@
 author= "karl taylor"
 categories= ["startups", "marketing"]
 date= 2017-02-06T21:57:34
-title= "A Glimpse At Two Ways To Think About “How Much Should I Post” and “When Should
-  I Post”"
+title= "A Glimpse At Two Ways To Think About “How Much Should I Post” and “When Should I Post”"
 
 +++
 

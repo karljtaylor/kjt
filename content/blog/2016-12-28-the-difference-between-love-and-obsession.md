@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["advice", "startups"]
-date= 2016-12-28T06:45:42 2016-12-28 06:45:42 +0000
+date= 2016-12-28T06:45:42 
 title= "The Difference Between Love And Obsession"
 
 +++

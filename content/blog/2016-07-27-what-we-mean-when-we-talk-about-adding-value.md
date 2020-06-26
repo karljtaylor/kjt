@@ -2,7 +2,7 @@
 author= "karl taylor"
 categories= ["startups", "marketing"]
 date= 2016-07-27T21:08:35
-title= "What We Mean When We Talk About Adding Value.""
+title= "What We Mean When We Talk About Adding Value."
 
 +++
 

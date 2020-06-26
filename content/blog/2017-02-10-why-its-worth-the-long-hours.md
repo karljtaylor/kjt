@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["advertising", "marketing"]
-date= 2017-02-10T00:31:24 2017-02-10 00:31:24 +0000
+date= 2017-02-10T00:31:24 
 title= "Why It’s Worth The Long Hours"
 
 +++

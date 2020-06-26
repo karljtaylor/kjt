@@ -1,6 +1,6 @@
 +++
 categories= ["traditional media", "marketing"]
-date= 2017-03-23T00:31:20 2017-03-23 00:31:20 +0000
+date= 2017-03-23T00:31:20 
 author = "karl taylor"
 title= "It’s More Like Magazines"
 

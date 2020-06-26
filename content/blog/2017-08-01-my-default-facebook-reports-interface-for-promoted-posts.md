@@ -1,6 +1,6 @@
 +++
 categories= ["facebook", "analytics", "marketing", "startups"]
-date= 2017-08-01T22:38:45 2017-08-01 22:38:45 +0000
+date= 2017-08-01T22:38:45 
 author= "karl taylor"
 title= "My Default Facebook Reports Interface For Promoted Posts"
 

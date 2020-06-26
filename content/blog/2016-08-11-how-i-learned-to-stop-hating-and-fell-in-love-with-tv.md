@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["TV", "marketing", "traditional media"]
-date= 2016-08-11T19:31:19 
+date= 2016-08-11T19:31:19
 title= "How I Learned To Stop Hating And Fell In Love With TV"
 
 +++

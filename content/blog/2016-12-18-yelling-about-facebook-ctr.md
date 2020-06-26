@@ -1,8 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["facebook", "marketing", "growth"]
-date= 2016-12-18T20:25:25 
-author = "karl taylor"
+date= 2016-12-18T20:25:25
 title= "Yelling About Facebook CTR"
 
 +++

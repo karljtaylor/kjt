@@ -1,5 +1,5 @@
 +++
-categories: ["email marketing", "marketing", "startups"]
+categories= ["email marketing", "marketing", "startups"]
 date= 2016-12-01T00:59:45 2016-12-01 00:59:45 +0000
 author = "karl taylor"
 title= "How Long Does It Take To Make An Email Template Anyway?"
