@@ -32,3 +32,16 @@ here is the result:
 It's not great, by any means, but it was a fun little afternoon project, and a good reminder of just how much easier some of these production workflows have really gotten. There's no reason why a small project can't have video. It's just gotten that much easier.
 
 For the curious: I used the [MTSR](http://mtsr-app.com/) app to capture and (crudely) mix a few audio tracks I recorded. I captured the footage using a tripod and [Stop Motion Studio](https://www.cateater.com/utm_source=karljtaylor.com) Props came from [disney](https://www.shopdisney.com/?CMP=karljtaylor.com), [mailchimp](https://mailchimp.com/?utm_source=karljtaylor.com) and of course, [coke](https://us.coca-cola.com/store/?utm_source=karljtaylor.com)
+
+
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+  <p style="
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+    <input type="text" name="email" id="tlemail" style="
+   width: 140px;
+"></p>
+  <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>

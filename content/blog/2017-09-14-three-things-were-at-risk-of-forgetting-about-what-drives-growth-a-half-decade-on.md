@@ -1,6 +1,6 @@
 +++
 categories= ["growth", "marketing"]
-date= 2017-09-14T21:00:12
+date= "2017-09-14T21:00:12"
 title= "Three Things We’re At Risk Of Forgetting About What Drives Growth A Half Decade On"
 author="karl taylor"
 type = "post"
@@ -78,3 +78,16 @@ type = "post"
  I don’t know that these are the only lessons that are worth learning, but I do know that they’ve always provided me with a great bit of clarity as I’ve worked to find solutions to problems that don’t always have obvious answers. I’ll bet that in the next five years, they’ll help you, too.
 
  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/12AbusoXJSd7776YJKP5OBahw.png) [Three Things We’re At Risk Of Forgetting About What Drives Growth A Half Decade On](https://blog.markgrowth.com/three-things-were-at-risk-of-forgetting-about-what-drives-growth-a-half-decade-on-54e3e68b8ab7) was originally published in [Marketing And Growth Hacking](https://blog.markgrowth.com/).
+
+
+   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

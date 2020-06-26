@@ -1,6 +1,6 @@
 +++
 categories= ["analytics", "marketing", "media"]
-date= 2017-05-22T18:02:44
+date= "2017-05-22T18:02:44"
 author = "karl taylor"
 title= "There Is A Much Easier Way To Advocate For Net Neutrality Than Calling Congress."
 type = "post"
@@ -82,3 +82,16 @@ type = "post"
  next time you’re considering a community project. ask yourself, should this really be a facebook group or can I host a [diaspora](https://diasporafoundation.org/)? you could stand up a trello board in just a few clicks, or you could click a little further and roll your own [Taiga](https://taiga.io/).
 
  the world will change overnight.
+
+
+   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

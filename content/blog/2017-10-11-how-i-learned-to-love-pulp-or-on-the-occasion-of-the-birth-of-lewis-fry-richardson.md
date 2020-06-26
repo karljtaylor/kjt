@@ -1,6 +1,6 @@
 +++
 categories= ["Writing", "reflection"]
-date= 2017-10-11T17:19:00
+date= "2017-10-11T17:19:00"
 author="karl taylor"
 title= "How I Learned To Love Pulp or:; On The Occasion Of The Birth Of Lewis Fry Richardson."
 type = "post"
@@ -110,3 +110,16 @@ I never quite had the sort of undergraduate experience of which great stories of
  What you find won't always be immediately useful, but the path you'll take to get there will help to put your experiences back into the context of all the other sorts of experiences people have had over the span of history. It gives you a language to go back too--and that is near universally accessible.
 
  This post originally appeared [here](http://stem2steamatmines.blogspot.com/2017/10/how-i-learned-to-love-pulp-or-on.html).
+
+
+   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

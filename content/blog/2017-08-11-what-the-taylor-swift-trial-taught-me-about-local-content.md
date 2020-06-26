@@ -1,6 +1,6 @@
 +++
 categories= ["content marketing"]
-date= 2017-08-11T18:22:30
+date= "2017-08-11T18:22:30"
 title= "What The Taylor Swift Trial Taught Me About Local Content"
 author="karl taylor"
 type = "post"
@@ -98,3 +98,16 @@ type = "post"
  You have to be willing to break your audience up in to parts. No amount of advertising or marketing technology can do that for you. Sure you can integrate your tracking suite. You can use a tool like [Segment](https://medium.com/u/6e946b6a2866) to curate that data and you can spend hours making calls into a database about it, but **none of that** is going to tell you what to do when the signals are mixed.
 
  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/12ANSL_OBjP3BlbybMxwBaAiQ.png) When they are, you’ve got two choices. You can get on the path to developing different messaging experiences for different segments of your audience, or you can keep trying to be everything to everybody. But the truth is you really have to pick: you just can’t do both.
+
+
+   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

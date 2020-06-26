@@ -1,6 +1,6 @@
 +++
 categories= ["facebook", "analytics", "marketing", "startups"]
-date= 2017-08-01T22:38:45
+date= "2017-08-01T22:38:45"
 author= "karl taylor"
 title= "My Default Facebook Reports Interface For Promoted Posts"
 type = "post"
@@ -34,3 +34,16 @@ type = "post"
  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/12AZeFNKyUA9dNoPJxfnqTlnA.png) The day series breakdown is your friend.
 
  (Fair warning: at this point the interface will get quite slow. You’ll likely want to take your data *out* of Facebook and into Excel to analyze further.)
+
+
+   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

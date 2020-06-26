@@ -1,9 +1,8 @@
 +++
 author = "karl taylor"
 categories = ["goals"]
-date = "01/10/19"
+date = "2019-01-10T07:08:38-00:01"
 description = "An Adventure In Goal Setting"
-draft = false
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -45,3 +44,16 @@ So, I made sure that each day at around the same time, I got a reminder on my ph
 I haven’t quite made the progress I’d hoped for when I started this project, but I have learned something important.
 
 By allowing room in my plan for things to go wrong, I’ve actually made it easier to follow it. I still don’t do as good as I’d like, but it gets a little better every few days, and I’m starting to feel excited about some of the different things I’m working on. It’s still early, but I’m hopeful—and that feels a lot different than most of what I read about goals.
+
+
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+  <p style="
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+    <input type="text" name="email" id="tlemail" style="
+   width: 140px;
+"></p>
+  <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>

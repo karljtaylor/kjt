@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["writing"]
-date = "June 29, 2019"
+date = "2019-06-23T11:08:38-00:01"
 description = "I thought how strange it was, the myriad of events that had brought me to this very place, and as I drove back, I couldn’t help but reflect on just how rocky they had been, too.  As I walked back up the stairs to my apartment, I realized that it would be some time before I could ever live in a place like that, but I knew that I could, and it felt like that mattered."
 featured = ""
 featuredalt = ""
@@ -10,7 +10,7 @@ format = ""
 link = ""
 linktitle = ""
 title = "Perspectives, Change"
-type = "itemized"
+type = "post"
 
 +++
 I’ve spent just enough time exploring my family history, to know that despite being _in_ the United States as early as some time in the 1600s, not too many of us every really stuck around somewhere for long enough to be _from_ there.
@@ -65,7 +65,7 @@ I thought how strange it was, the myriad of events that had brought me to this v
 
 As I walked back up the stairs to my apartment, I realized that it would be some time before I could ever live in a place like that, but I knew that I could, and it felt like that mattered.
 
- 
+
   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
    <p style="
     display: flex;

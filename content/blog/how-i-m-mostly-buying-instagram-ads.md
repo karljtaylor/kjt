@@ -164,3 +164,16 @@ I've been doing it this way, since December or so...so I figured that was as goo
 As I've experimented, I've noticed that's really helpful if you post a lot of one type of content. (In my case, it was flower photos :| ) as you build a relationship with that particular audience segment, you'll find that you can get better results with each passing attempt.
 
 I suspect that because this really only lets you edit the date and the audience, it's not really something you can go too wild with, but it does make instagram ads a lot more powerful because it makes it easy to promote a post while preserving its social proof, and for some teams, that can be a big deal.
+
+
+  <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+   <p style="
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+     <input type="text" name="email" id="tlemail" style="
+    width: 140px;
+"></p>
+   <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>
