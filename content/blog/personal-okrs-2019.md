@@ -3,6 +3,7 @@ author = "karl taylor"
 categories = ["goals"]
 date = "01/10/19"
 description = "An Adventure In Goal Setting"
+draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
