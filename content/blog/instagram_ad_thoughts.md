@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = ["instagram", “advertising”, “marketing”]
+categories = ["instagram", "advertising", "marketing"]
 date = "01/10/19"
 description = "I wanted to share a few things I thought were helpful"
 draft = true
