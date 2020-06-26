@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories= ["startups", "marketing"]
-date= 2017-02-10T00:01:19
+date= "2017-02-10T00:01:19"
 title= "What Is A Culture Of Learning, Anyway?"
 type = "post"
 +++
@@ -77,3 +77,16 @@ type = "post"
  If you’re really committed to building the kind of culture where everyone’s working towards the goal of getting better, you’re not going to see the progress you’re hoping for until the way you think about problems changes.
 
  That’s what I try to remember whenever “growth,” doesn’t feel as easy as it should. Sometimes, the right answer just jumps out at you.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

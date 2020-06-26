@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["startups", "writing", "marketing"]
-date= 2017-02-22T23:28:11
+date= "2017-02-22T23:28:11"
 title= "The Dirty Secret About How Long It Takes To Write Something."
 type = "post"
 +++
@@ -81,3 +81,16 @@ type = "post"
  From accessing data to crafting image pulls and even writing the copy itself, there’s bound to be one or two areas where a better process can improve your output rate.
 
  You don’t have to sacrifice your integrity to get that done, you just have to start being realistic about how long it takes.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

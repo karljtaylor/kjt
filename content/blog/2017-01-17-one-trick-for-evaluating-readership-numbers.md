@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["traditional media", "marketing", "growth", "writing", "startups"]
-date= 2017-01-17T05:11:38
+date= "2017-01-17T05:11:38"
 title= "One Trick For Evaluating Readership Numbers"
 type = "post"
 +++
@@ -27,3 +27,16 @@ If a strategy demands a certain publication, you need it — no two ways about i
  While you can’t always find an exact match, I’ve found that comparing the number of people interested in “bicycles” on Facebook to the number of people a magazine claims as readers (and then both numbers to the total (avg cost/total sales size) number of bicycle sales) can often prove a beneficial exercise.
 
  While it won’t tell you exactly how many people you’re about to reach it should get you a little bit closer to reality than the more optimistic sales figure often is.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

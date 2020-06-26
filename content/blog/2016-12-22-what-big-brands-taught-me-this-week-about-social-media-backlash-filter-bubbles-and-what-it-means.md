@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["marketing", "growth", "facebook", "twitter"]
-date= 2016-12-22T04:25:01
+date= "2016-12-22T04:25:01"
 title = "What Big Brands Taught Me This Week About Social Media Backlash, Filter Bubbles And What It Means…"
 type = "post"
 +++
@@ -57,3 +57,16 @@ type = "post"
  That’s what I like about the example above. You can clearly tell that even if the CsR didn’t have a clue how to respond to the flag based inquiry, they knew to communicate the value of empathy and to offer to move the conversation to a more private channel.
 
  It won’t work every time and it certainly won’t win any awards for elegance, but what I learned this week was that the truth is this sort of consistent discipline can make a big difference when it comes to maintaining your community online.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

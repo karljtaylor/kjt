@@ -1,6 +1,6 @@
 +++
 categories= ["marketing", "email marketing"]
-date= 2017-01-07T06:11:34
+date= "2017-01-07T06:11:34"
 author = "karl taylor"
 title= "Help Keep Your Account Secure"
 type = "post"
@@ -20,3 +20,16 @@ type = "post"
  You won’t always be able to rely on a single message to fix every problem in your marketing program. Sometimes, you’ll just have to rely that the system works in more cases than it doesn’t. That doesn’t mean that you need to neglect the opportunity to make your small messages matter.
 
  A well timed push notification can make the difference between a daily active and semi-active user. Over time those small changes can mean a big impact on your metrics.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

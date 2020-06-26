@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["apps", "marketing", "startups"]
-date = 2017-01-17T01:44:46
+date = "2017-01-17T01:44:46"
 title = "Why You Should Pay Attention To Disney’s Take On This Generation’s iMessage Sticker"
 type = "post"
 +++
@@ -66,3 +66,16 @@ type = "post"
  I can tell you anecdotally that I’ve spent more time with these stickers than I have with any of these underlying assets in years.
 
  While that may not always translate directly into added sales, it has a real and perceptible value. Learning to measure and optimize for it is the trick to finding the best way to exploit a new opportunity like Disney has with these stickers.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

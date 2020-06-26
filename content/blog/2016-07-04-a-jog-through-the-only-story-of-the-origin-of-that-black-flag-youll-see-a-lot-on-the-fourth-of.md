@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["holidays", "design"]
-date = 2015-07-04T21:33:22
+date = "2015-07-04T21:33:22"
 title = "A Jog Through The Only Story of The Origin Of That Black Flag You’ll See A Lot On The Fourth Of July"
 type = "post"
 +++
@@ -70,3 +70,16 @@ type = "post"
  Which is precisely what I’m thinking about this Fourth of July. Because while we may think of this flag now in many different ways, it’s origins are one of the most American sort of stories I can think of. The way that Mrs. Hoff thought to contact a flag maker she had learned of reading a paper, that the project landed on the desk of a small advertising agency, that the work was powerful enough to give the designer the freedom he had earned at the end of a long career to start his own shop — that after serving half way across the world, it was that experience and perspective that let him build here, in the great state of Colorado.
 
  That members of three of the most forgotten groups (military spouses, graphic designers, and flag makers) found a way to make use of the talents at their disposal and in doing so were able to accomplish this historically thankless task of acknowledging society’s most forgotten sacrifices is a reminder of our shared responsibility to do what we can with out voice where we are to make our communities more like the places we want to be.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

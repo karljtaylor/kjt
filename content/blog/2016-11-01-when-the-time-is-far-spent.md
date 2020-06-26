@@ -1,6 +1,6 @@
 +++
 categories= ["startups", "Entrepreneurship", "Writing"]
-date= 2016-11-01T18:49:49
+date= "2016-11-01T18:49:49"
 author = "karl taylor"
 title= "When The Time Is Far Spent."
 type = "post"
@@ -30,3 +30,16 @@ type = "post"
  There’s such a demand for real documentary content these days, that I can understand why a lot of people feel overwhelmed when it comes time to actually sit down and make something, but knowing that you can type almost as fast as someone else can read, is something I think that makes it a little bit easier to stomach.
 
  That’s why I started this post with a constraint. I knew how long I had, and I knew what I wanted to say — so it wasn’t hard to work backwards and figure out how long it would take. From there, it was just a matter of actually doing the thing.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

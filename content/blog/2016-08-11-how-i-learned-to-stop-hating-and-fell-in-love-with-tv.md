@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["TV", "marketing", "traditional media"]
-date= 2016-08-11T19:31:19
+date= "2016-08-11T19:31:19"
 title= "How I Learned To Stop Hating And Fell In Love With TV"
 type = "post"
 +++
@@ -111,3 +111,16 @@ type = "post"
  More often than not, when I ask myself those questions these days? I have to consider spot TV.
 
  And that’s how I learned to stop hating and love TV.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

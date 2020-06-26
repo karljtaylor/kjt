@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories = ["writing", "advice"]
-date = 2016-12-25T21:19:40
+date = "2016-12-25T21:19:40"
 title = "The One Where I Quoth Something Someone Once Told Me About Quotations"
 type = "post"
 +++
@@ -44,3 +44,16 @@ type = "post"
  While this may not be true of every repeatable phrase, there’s an important lesson here to be learned by those of us who are engaged in the work of professional communications.
 
  It isn’t good enough to say something that “sounds good,” you’ve got to spend a little more time thinking about the where and the why of what you’re going to say.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

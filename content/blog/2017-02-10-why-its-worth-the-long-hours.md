@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["advertising", "marketing"]
-date= 2017-02-10T00:31:24
+date= "2017-02-10T00:31:24"
 title= "Why It’s Worth The Long Hours"
 type = "post"
 +++
@@ -44,3 +44,16 @@ type = "post"
  But every time I find it hard to get through a day advertising, I come back to those streams of profiles. Every time I can’t figure out why one adset is working great and another is falling or need to pin down just which element of a program is driving results, I go back to those profiles.
 
  Because the truth is some of us didn’t get into this to shill, and sometimes watching the people is the best way to remember that.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

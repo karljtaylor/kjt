@@ -1,7 +1,7 @@
 +++
 categories= ["podcasts", "startups", "growth"]
 author = "karl taylor"
-date= 2017-03-03T01:37:51
+date= "2017-03-03T01:37:51"
 title= "'Dear Podcasters: Please Stop Listening To Other People’s Podcasts.'"
 type = "post"
 +++
@@ -49,3 +49,16 @@ type = "post"
  But before too long, you end up producing content that you really can’t tell apart.
 
  Trying to keep what you consume from influencing your work is a losing battle, but making sure you work in silos can help you short circuit the inevitable bias towards what already exists.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

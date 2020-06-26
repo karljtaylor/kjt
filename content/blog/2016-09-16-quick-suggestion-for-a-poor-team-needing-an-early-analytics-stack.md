@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["analytics", "marketing"]
-date = 2016-09-16T18:42:33
+date = "2016-09-16T18:42:33"
 title = "Quick Suggestion For A Poor Team Needing An Early Analytics Stack"
 type = "post"
 +++
@@ -33,3 +33,16 @@ type = "post"
  In both cases, you should settle pretty near to the free tier — it takes a while to outgrow.
 
  If you want to drill a little deeper, here’s a [good introduction to Segment](https://medium.com/saas-user-onboarding-resources/how-to-hack-your-analytics-with-segment-io-500acfc32254#.vjxawm19d) from [Francois de Fitte](https://medium.com/u/dbb26c48469).
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

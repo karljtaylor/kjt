@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["advice", "startups"]
-date= 2016-12-28T06:45:42
+date= "2016-12-28T06:45:42"
 title= "The Difference Between Love And Obsession"
 type = "post"
 +++
@@ -71,3 +71,16 @@ type = "post"
  True too, is that the constraints of the environment don’t always allow for picking up the context necessary to really understand how any one given aptitude, experience, or talent fits into the bigger picture. Such perspective can really only be acquired with….well, perspective.
 
  There’s something to be said about the value of being humbled by a lack of experience, but thus far I have found struggling to accurately catalog strengths and weaknesses (and then identifying the steps to leverage those strengths to mitigate said weakness) has proven far more rewarding.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

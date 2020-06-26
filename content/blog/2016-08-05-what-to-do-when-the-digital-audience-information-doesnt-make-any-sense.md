@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["marketing", "small business", "analytics"]
-date= 2016-08-05T21:08:58
+date= "2016-08-05T21:08:58"
 title= "What To Do When The Digital Audience Information Doesn’t Make Any Sense"
 type = "post"
 +++
@@ -91,3 +91,16 @@ type = "post"
  That’s why it’s so important that you learn not to be overwhelmed when you stumble into some information that makes you rethink your marketing strategy. When you see that only 2/100 of your email list sign ups follow on you on Twitter, when you learn that your Snapchat universe is reaching 2,000 people you don’t have any information on, when you wonder if buying an ad on a new podcast is the right idea…these are the times when you should be excited.
 
  These are times when you should look for answers from unconventional sources. These are the times when you should consider unconventional applications of conventional sources. These are the times where it matters that you try your best — because you only stumble into these problems when you’re actually doing something that no one has ever done before.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

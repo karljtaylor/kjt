@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories= ["marketing", "facebook", "startups"]
-date= 2017-04-17T21:48:56
+date= "2017-04-17T21:48:56"
 title= "How Can You Make Sure That You’re Getting Social Media Reach?"
 type = "post"
 +++
@@ -81,3 +81,16 @@ type = "post"
  When I first learned Facebook Ads, they were new. They were cheap. No one understood them. It isn’t like that anymore. But the truth is that Facebook becoming an evergreen channel doesn’t mean that those opportunities or opportunities like them are gone forever.
 
  At the risk of overindulging that old entrepreneurial cliche you really can find one wherever people spend their time.
+
+
+    <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+     <p style="
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+       <input type="text" name="email" id="tlemail" style="
+      width: 140px;
+  "></p>
+     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+  </form>

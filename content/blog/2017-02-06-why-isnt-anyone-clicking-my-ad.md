@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["advertising", "marketing", "growth", "startups"]
-date= 2017-02-06T17:50:49
+date= "2017-02-06T17:50:49"
 title= "Why Isn’t Anyone Clicking My Ad?"
 type = "post"
 +++
@@ -54,3 +54,16 @@ type = "post"
  In-house we have the capability to address each of those elements, but accommodating scope creep in performance based agreements is a new kind of problem.
 
  And for that matter, one I’m not sure I’ve seen a good solution for.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

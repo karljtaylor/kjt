@@ -1,6 +1,6 @@
 +++
 categories= ["marketing", "messaging", "advertising"]
-date= 2016-10-25T16:48:52
+date= "2016-10-25T16:48:52"
 author = "karl taylor"
 title= "The Problem With “Widget, 5$.”"
 type = "post"
@@ -34,3 +34,16 @@ type = "post"
   At the end of the day, you’re very likely a native user of many of the platforms that your team uses to promote itself.
 
  You don’t have to grasp for straws to figure out where the balance between “savvy” and “scammy” is, you’ve got to roll your sleeves and start looking for it.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

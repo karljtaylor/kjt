@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["marketing", "outdoor advertising", "analytics", "startups"]
-date = 2015-06-09T11:36:46
+date = "2015-06-09T11:36:46"
 title = "I am told it works, even if you don't believe in it."
 type = "post"
 +++
@@ -47,3 +47,16 @@ type = "post"
  [embed]http://yourbusiness.azcentral.com/billboards-work-24581.html[/embed]
 
  Empowering socially conscious consumers to “Buy a Beer” for a Soldier (or other charity) by scanning a code on the bottle makes sense. It meets the customers where they are, and it gives them a reason to engage.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["startups", "marketing"]
-date= 2016-07-27T21:08:35
+date= "2016-07-27T21:08:35"
 title= "What We Mean When We Talk About Adding Value."
 type = "post"
 +++
@@ -98,3 +98,16 @@ type = "post"
  It’s A Home Run!  By offering me his help in this way, Daniel did more than demonstrate his competence as a front end developer. By taking the initiative to identify a problem, offer a solution and putting in the trench time to come up with an actionable plan, Daniel demonstrated the ability to lead.
 
  Which is why I wanted to take a moment to do more than just recommend his services. I’d recommend that in addition to considering him for front end development tasks (which, I most certainly do,) you learn from this powerful tactic.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

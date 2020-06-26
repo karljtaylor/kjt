@@ -1,7 +1,7 @@
 +++
 author= "karl taylor"
 categories= ["marketing", "startups", "advertising", "growth"]
-date= 2016-12-30T20:41:35
+date= "2016-12-30T20:41:35"
 title= "“But How Long Will This Take”"
 type = "post"
 +++
@@ -52,3 +52,15 @@ type = "post"
  If you need to move at a faster pace, you can increase the number of people you reach at the top of the funnel. If you need to stretch your dollar, you can look for ways to increase conversion rate or slow down the rate at which you reach your audience.
 
  While you won’t ever get numbers quite as clean as you could in our little example above, you will find this a very helpful rule of thumb for calculating just how long you’ll need to advertise.
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

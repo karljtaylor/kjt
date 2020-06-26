@@ -1,6 +1,6 @@
 +++
 categories= ["marketing", "education", "advice", "startups"]
-date= 2016-12-07T00:47:33
+date= "2016-12-07T00:47:33"
 author = "karl taylor"
 title= "A Quick Word Of Advice About Digital Marketing Courses"
 type = "post"
@@ -50,3 +50,16 @@ type = "post"
  It’s not always as straight forward as a digital marketing course online or in a classroom, but getting your hands dirty is one of the fastest ways to learn how this space works.
 
  So, if you’re looking for the best digital marketing course out there, you might be able to get more mileage out of just rolling up your sleeves and start working on something.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

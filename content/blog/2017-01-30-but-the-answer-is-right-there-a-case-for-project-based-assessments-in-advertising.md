@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories= ["advertising", "marketing", "startups"]
-date= 2017-01-30T19:16:51
+date= "2017-01-30T19:16:51"
 title= "But The Answer Is Right There: A Case For Project Based Assessments In Advertising."
 type = "post"
 +++
@@ -79,3 +79,16 @@ type = "post"
  So it doesn’t fix the problem of uneven candidate credentialing. It also doesn’t make it any easier for a well-qualified-but-poorly-packaged candidate to stand out, but what a project based approach can do is highlight the way your prospective new player will fit into the team. It should give you a clear picture of what learning projects you need to make sure your new employee undertakes. If you’re looking at this from the perspective of looking for a job, I suspect that this is the reason that folks doing hiring generally pay more attention to applications that are the product of a novel approach to problem solving.
 
  While you may not be ready to change the way you do everything today, over the next few years we’re likely to see the popularity of these sorts of assessments grow. It might be a good idea to start thinking about.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>

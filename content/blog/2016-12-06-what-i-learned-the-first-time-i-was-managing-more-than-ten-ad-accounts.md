@@ -1,6 +1,6 @@
 +++
 categories = ["startups", "marketing", "growth", "startups"]
-date= 2016-12-06T03:46:27
+date= "2016-12-06T03:46:27"
 author = "karl taylor"
 title = "What I Learned The First Time I Was Managing More Than Ten Ad Accounts"
 type = "post"
@@ -62,3 +62,16 @@ type = "post"
  After a while though, if you stop to look you’ll find you’ve spent more time thinking about work than you’ve spent actually working.
 
  It’s true for writing, and it’s true for ad ops. When you’re serious about doing work, you’ve got to take time seriously, but the only way you get there is to think about what you’re really doing and let yourself get right down to the task at hand.
+
+
+     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+      <p style="
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+        <input type="text" name="email" id="tlemail" style="
+       width: 140px;
+   "></p>
+      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+   </form>
