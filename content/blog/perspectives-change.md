@@ -65,3 +65,6 @@ As I moved through the area, I came across an old cemetery on the other end of t
 I thought how strange it was, the myriad of events that had brought me to this very place, and as I drove back, I couldn’t help but reflect on just how rocky they had been, too.
 
 As I walked back up the stairs to my apartment, I realized that it would be some time before I could ever live in a place like that, but I knew that I could, and it felt like that mattered.
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+        
