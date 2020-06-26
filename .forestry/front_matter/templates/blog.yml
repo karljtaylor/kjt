@@ -2,56 +2,64 @@
 label: blog
 hide_body: false
 fields:
-- name: author
-  label: Author
+- name: title
+  label: Title
   type: text
   hidden: false
   default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: true
+  default: karl taylor
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+  description: 'Post description copy will define what gets sent to subscribers on
+    the email list, and the featured text on the post. '
+- name: date
+  type: datetime
+  label: Post Date
+  description: Pick your posting date!
+  config:
+    required: false
+    date_format: MM/DD/YY
+    time_format: h:m A ZZ
+    display_utc: false
+    export_format: YYYY-MM-DDThh:mm:ss
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default:
   - ''
-- name: date
-  label: Date
-  type: text
-  hidden: false
-  default: ''
-- name: description
-  label: Description
-  type: text
-  hidden: false
-  default: ''
+  description: 'select the categories for your post. '
 - name: featured
   label: Featured
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: featuredalt
   label: Featuredalt
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: featuredpath
   label: Featuredpath
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: linktitle
   label: Linktitle
   type: text
-  hidden: false
-  default: ''
-- name: title
-  label: Title
-  type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: type
   label: Type
   type: text
-  hidden: false
+  hidden: true
   default: post
 pages:
 - content/blog/a-thought-about-brands-and-halloween.md
