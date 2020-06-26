@@ -30,13 +30,17 @@ I think people talk a lot about that sort of change because the urgency of the s
 
 ## A Change of Scenery
 
-![I’d never really considered it, but I suppose there are a few situations where you might not have any choice but to build on sand. ](4C239944-5184-4AAF-A8BA-968E21A4CCE7.jpeg)I’d never really considered it, but I suppose there are a few situations where you might not have any choice but to build on sand.
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/4c239944-5184-4aaf-a8ba-968e21a4cce7.jpeg)
+
+I’d never really considered it, but I suppose there are a few situations where you might not have any choice but to build on sand.
 
 I spent most of my time near a town that had a population that rivaled the current occupancy of my apartment building. My building happens to be the smallest of the 6 buildings on the street I live on—it’s the smallest number of people I’ve been around in some time.
 
 One morning, as I got up, and went about my routine, I looked out at the scrub brush taking root in the sand. I thought about all of the times I’d had to change. I wondered how many times I’d have to rebuild my life on what felt like a really rocky place.
 
-![If you look at things too closely, it can be difficult to really understand how all of the small pieces can fit together to form a lush landscape. ](73313C66-E027-4152-A32D-B19054B71A78.jpeg "Little Efforts Expand")If you look at things too closely, it can be difficult to really understand how all of the small pieces can fit together to form a lush landscape.
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/73313c66-e027-4152-a32d-b19054b71a78.jpeg)
+
+If you look at things too closely, it can be difficult to really understand how all of the small pieces can fit together to form a lush landscape.
 
 One of the things I find the most challenging about staying focused when working to make a change, is measuring my progress. I think it can be hard to know when the ‘change’ is happening, if you’re really on track. When you’re building on top of sand, you have some obvious indicators. But if you’re changing an attitude, a habit, or a perspective? How can you really know what progress you’re making?
 
@@ -48,11 +52,13 @@ In this part of the western United States, every bit of water is precious. It’
 
 It was easy to see why.
 
-![Given enough time, our desert places can blossom. ](A01A1731-9733-46E8-9D60-E2B8943DD1E4.png "Green Things Grow")Given enough time, our desert places can blossom.
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/a01a1731-9733-46e8-9d60-e2b8943dd1e4.png)
+
+Given enough time, our desert places can blossom.
 
 As I looked out at the green scenery, I thought about just how much work it takes to make something grow in a rocky place.
 
-![](7EDB7CFE-ECE1-4127-A4BE-173F9E20117D.jpeg "My 9th Cousin")
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/7edb7cfe-ece1-4127-a4be-173f9e20117d.jpeg)
 
 As I moved through the area, I came across an old cemetery on the other end of the valley where a stunning number of names I recognized were scrawled across cracking stone. I stopped and took note of a few as I looked out and felt a sense of ownership.
 
