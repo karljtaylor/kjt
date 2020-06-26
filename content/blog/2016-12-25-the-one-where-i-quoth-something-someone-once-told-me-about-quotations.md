@@ -1,9 +1,8 @@
 +++
 author= "karl taylor"
-categories= ["writing", "advice"]
-date= 2016-12-25T21:19:40 
-author = "karl taylor"
-title= "The One Where I Quoth Something Someone Once Told Me About Quotations"
+categories = ["writing", "advice"]
+date = 2016-12-25T21:19:40
+title = "The One Where I Quoth Something Someone Once Told Me About Quotations"
 
 +++
 

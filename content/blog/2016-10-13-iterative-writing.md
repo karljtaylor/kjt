@@ -1,8 +1,8 @@
 +++
 categories= ["writing", "marketing"]
-date= 2016-10-13T17:29:07 
+date = 2016-10-13T17:29:07 
 author = "karl taylor"
-title= "Iterative Writing"
+title = "Iterative Writing"
 
 +++
 

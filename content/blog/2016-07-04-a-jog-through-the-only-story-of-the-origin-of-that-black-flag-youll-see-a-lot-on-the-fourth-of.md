@@ -1,7 +1,7 @@
 +++
-author= "karl taylor"
-categories= ["holidays", "design"]
-date= 2015-07-04T21:33:22
+author = "karl taylor"
+categories = ["holidays", "design"]
+date = 2015-07-04T21:33:22
 title = "A Jog Through The Only Story of The Origin Of That Black Flag You’ll See A Lot On The Fourth Of July"
 
 +++

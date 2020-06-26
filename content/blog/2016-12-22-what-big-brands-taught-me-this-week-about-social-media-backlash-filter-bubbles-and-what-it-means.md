@@ -1,9 +1,8 @@
 +++
-author= "karl taylor"
-categories= ["marketing", "growth", "facebook", "twitter"]
-date= 2016-12-22T04:25:01
 author = "karl taylor"
-title= "What Big Brands Taught Me This Week About Social Media Backlash, Filter Bubbles And What It Means…"
+categories = ["marketing", "growth", "facebook", "twitter"]
+date= 2016-12-22T04:25:01
+title = "What Big Brands Taught Me This Week About Social Media Backlash, Filter Bubbles And What It Means…"
 
 +++
 

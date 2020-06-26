@@ -1,10 +1,7 @@
 +++
 author = "karl taylor"
-categories: ["marketing", "outdoor advertising", "analytics", "startups"]
-date= 2015-06-09T11:36:46 
-parent_id: 0
-password: ''
-status: publish
+categories = ["marketing", "outdoor advertising", "analytics", "startups"]
+date = 2015-06-09T11:36:46 
 title= "I am told it works, even if you don't believe in it."
 
 +++

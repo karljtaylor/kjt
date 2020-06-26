@@ -1,9 +1,8 @@
 +++
-author= "karl taylor"
-categories= ["apps", "marketing", "startups"]
-date= 2017-01-17 01:44:46 +0000
-title= "Why You Should Pay Attention To Disney’s Take On This Generation’s iMessage
-  Sticker"
+author = "karl taylor"
+categories = ["apps", "marketing", "startups"]
+date = 2017-01-17T01:44:46 
+title = "Why You Should Pay Attention To Disney’s Take On This Generation’s iMessage Sticker"
 
 +++
 
