@@ -3,7 +3,7 @@ categories= ["podcasts", "startups", "growth"]
 author = "karl taylor"
 date= 2017-03-03T01:37:51
 title= "'Dear Podcasters: Please Stop Listening To Other People’s Podcasts.'"
-
+type = "post"
 +++
 
  #### A Suggestion From Someone Who Listens To Way Too Many Podcasts

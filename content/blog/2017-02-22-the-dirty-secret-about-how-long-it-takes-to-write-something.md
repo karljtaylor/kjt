@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["startups", "writing", "marketing"]
 date= 2017-02-22T23:28:11
 title= "The Dirty Secret About How Long It Takes To Write Something."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/29416-1p-tzf0nmsp9mxhizyisrrg.png)  

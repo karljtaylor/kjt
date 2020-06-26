@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["startups", "sales", "marketing", "promotions"]
 date= 2017-06-07T23:38:05
 title = "Why You Need To Pay Attention To Social Engagements."
-
+type = "post"
 +++
 
  #### or:; “How Do We Do Things That Get People To Share Our Promotion!?!?!?!?!?”

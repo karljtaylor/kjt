@@ -3,7 +3,7 @@ author = "karl taylor"
 categories= ["advertising", "marketing", "startups"]
 date= 2017-01-30T19:16:51
 title= "But The Answer Is Right There: A Case For Project Based Assessments In Advertising."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/796d6-1jtabksftmvtxlzqoaxaqrq.png)  

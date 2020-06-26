@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["advertising", "marketing", "growth", "startups"]
 date= 2017-02-06T17:50:49
 title= "Why Isn’t Anyone Clicking My Ad?"
-
+type = "post"
 +++
 
  #### The Problem With Performance Based Pricing Models

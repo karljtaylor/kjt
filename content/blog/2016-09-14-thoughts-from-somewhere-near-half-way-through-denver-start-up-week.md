@@ -1,9 +1,9 @@
 +++
 author = "karl taylor"
-categories= ["hiring", "startups", "events"]
-date= 2016-09-14T22:49:00
-title= "Thoughts From Somewhere Near Half-Way Through Denver Start Up Week."
-
+categories = ["hiring", "startups", "events"]
+date = 2016-09-14T22:49:00
+title = "Thoughts From Somewhere Near Half-Way Through Denver Start Up Week."
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*ovoKeeZ08mHKc5mPicN8kA.png)  

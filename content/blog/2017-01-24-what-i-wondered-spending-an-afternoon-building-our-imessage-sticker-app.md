@@ -3,7 +3,7 @@ author = "karl taylor"
 categories= ["iOS", "marketing"]
 date= 2017-01-24T02:13:17
 title= "What I Wondered Spending An Afternoon Building Our iMessage Sticker App"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0a90c-1ou8wnmbsv0rbhc7nzxi8pg.png)  

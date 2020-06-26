@@ -1,9 +1,9 @@
 +++
 author = "karl taylor"
 categories = ["apps", "marketing", "startups"]
-date = 2017-01-17T01:44:46 
+date = 2017-01-17T01:44:46
 title = "Why You Should Pay Attention To Disney’s Take On This Generation’s iMessage Sticker"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/34706-1gt3rpx9dpumm8eq0aopmra.png)  

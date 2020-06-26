@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["marketing", "analytics"]
 date= 2017-02-13T01:33:45
 title= "The Spectrum Of User Surveys"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/4a6d8-1a1pjfj4pg3dmsbawiaoz5q.png)  

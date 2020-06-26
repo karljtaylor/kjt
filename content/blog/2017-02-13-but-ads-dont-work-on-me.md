@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["advertising", "marketing"]
 date= 2017-02-13T00:52:10
 title= "“But Ads Don’t Work On Me.”"
-
+type = "post"
 +++
 
  #### Why It May Be Time To Rethink Your Skepticism

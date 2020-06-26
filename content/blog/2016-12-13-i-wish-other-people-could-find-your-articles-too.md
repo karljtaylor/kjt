@@ -3,7 +3,7 @@ author = "karl taylor"
 categories = ["marketing", "advertising", "startups", "growth"]
 date = 2016-12-13T02:32:43
 title = "I Wish Other People Could Find Your Articles, Too"
-
+type = "post"
 +++
 
  #### Something I Learned Today.

@@ -1,9 +1,9 @@
 +++
 author = "karl taylor"
 categories= ["Marketing", "startups", "growth"]
-date= 2017-05-23T00:57:05 
+date= 2017-05-23T00:57:05
 title= "The Next Big PR Play"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/3eeac-1jl6bcs89solupc9nfekggq.png)  

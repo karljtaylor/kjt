@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["startups", "metrics", "facebook", "analytics"]
 date= 2017-05-03T21:04:15
 title= "You Only Really Need One Metric To Evaluate The Health Of A Facebook Page"
-
+type = "post"
 +++
 and that’s “Talking About This.” (PTAT)
 

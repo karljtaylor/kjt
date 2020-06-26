@@ -3,7 +3,7 @@ categories= ["marketing", "twitter", "instagram", "growth", "startups"]
 date= 2017-03-13T21:50:33
 author = "karl taylor"
 title= "A Reason Auto Followers Are Probably Killing Your Engagement Stats At Scale."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/f82a4-1e90vxf8f8ta5y74k8p-uea.png)  

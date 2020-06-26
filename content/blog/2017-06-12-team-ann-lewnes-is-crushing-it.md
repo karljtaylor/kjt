@@ -3,7 +3,7 @@ categories= ["marketing", "content marketing"]
 date= 2017-06-12T22:28:47
 author = "karl taylor"
 title = "Team Ann Lewnes Is Crushing It."
-
+type = "post"
 +++
  #### *Even If They Should Be Forming Deeper Relationships With Folks Like Team [Mark Brickey](http://www.adventuresindesignmarket.com/).
 

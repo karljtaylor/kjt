@@ -3,7 +3,7 @@ author = "karl taylor"
 categories= ["marketing", "facebook", "startups"]
 date= 2017-04-17T21:48:56
 title= "How Can You Make Sure That You’re Getting Social Media Reach?"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/aff9a-1w-rqsjipqnsh6jhw3cs9ow.png)  

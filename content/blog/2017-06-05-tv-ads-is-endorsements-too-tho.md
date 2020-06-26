@@ -1,9 +1,9 @@
 +++
 categories= ["", "TV", "traditional media", "marketing"]
-date= 2017-06-05T22:15:36 
+date= 2017-06-05T22:15:36
 author = "karl taylor"
 title = "TV Ads Is Endorsements Too, Tho."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/263a3-1guktuaxbt-iwtuww11_qdq.png)  

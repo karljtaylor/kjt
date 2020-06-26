@@ -1,9 +1,9 @@
 +++
 author = "karl taylor"
-categories= ["analytics", "marketing"]
-date= 2016-09-16T18:42:33
-title= "Quick Suggestion For A Poor Team Needing An Early Analytics Stack"
-
+categories = ["analytics", "marketing"]
+date = 2016-09-16T18:42:33
+title = "Quick Suggestion For A Poor Team Needing An Early Analytics Stack"
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/e62b1-1a76esfsqohzbbtzsptq-mq.png)  

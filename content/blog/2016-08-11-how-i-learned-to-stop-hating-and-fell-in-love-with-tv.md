@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["TV", "marketing", "traditional media"]
 date= 2016-08-11T19:31:19
 title= "How I Learned To Stop Hating And Fell In Love With TV"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/d1982-1ga-16r1azkqcw5t_u3-pag.png)  

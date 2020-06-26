@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["traditional media", "marketing", "growth", "writing", "startups"]
 date= 2017-01-17T05:11:38
 title= "One Trick For Evaluating Readership Numbers"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/024fe-1whqswlo_w8icgytflizyfg.png)  

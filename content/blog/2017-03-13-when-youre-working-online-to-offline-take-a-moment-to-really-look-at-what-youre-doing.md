@@ -1,9 +1,9 @@
 +++
 categories= ["writing", "startups", "language", "marketing"]
-date= 2017-03-13T23:53:21 
+date= 2017-03-13T23:53:21
 author = "karl taylor"
 title= "When You’re Working Online To Offline, Take A Moment To Really Look At What You’re Doing"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/41538-1mnpu9c2aae6-sbvlu6i44a.png)  

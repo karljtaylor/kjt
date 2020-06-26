@@ -3,7 +3,7 @@ author = "karl taylor"
 categories= ["marketing", "startups"]
 date= 2017-04-04T21:34:27
 title= "What Private Branding Should Teach You About Competing On Price."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/c1cdd-1ioq-xmx4yts6zuj7fdbi6w.png)  

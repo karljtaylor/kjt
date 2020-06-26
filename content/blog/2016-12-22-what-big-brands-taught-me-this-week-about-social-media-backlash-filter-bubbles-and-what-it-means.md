@@ -3,7 +3,7 @@ author = "karl taylor"
 categories = ["marketing", "growth", "facebook", "twitter"]
 date= 2016-12-22T04:25:01
 title = "What Big Brands Taught Me This Week About Social Media Backlash, Filter Bubbles And What It Means…"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/74dea-1d52ki9vf5jdrl5ej2_w8kw.png)

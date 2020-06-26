@@ -1,9 +1,9 @@
 +++
 categories= ["writing", "marketing"]
-date = 2016-10-13T17:29:07 
+date = 2016-10-13T17:29:07
 author = "karl taylor"
 title = "Iterative Writing"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/70681-1gu0gi2elb2j-3ryotpk_xa.png)  

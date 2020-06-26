@@ -1,9 +1,9 @@
 +++
 categories= ["growth", "marketing", "startups"]
 author = "karl taylor"
-date= 2017-03-06T23:25:06 
+date= 2017-03-06T23:25:06
 title= "“We’ve Tapped Out The Universe”"
-
+type = "post"
 +++
 
  #### Advice For When User Growth Starts To Slip

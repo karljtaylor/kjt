@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["facebook", "marketing", "growth"]
 date= 2016-12-18T20:25:25
 title= "Yelling About Facebook CTR"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/d5177-1nuy7kgazriwk3oypx_ovna.png)  

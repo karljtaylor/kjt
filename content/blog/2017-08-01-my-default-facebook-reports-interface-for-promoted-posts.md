@@ -1,9 +1,9 @@
 +++
 categories= ["facebook", "analytics", "marketing", "startups"]
-date= 2017-08-01T22:38:45 
+date= 2017-08-01T22:38:45
 author= "karl taylor"
 title= "My Default Facebook Reports Interface For Promoted Posts"
-
+type = "post"
 +++
 ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/12AFm1K631SzJpA3t8DluDcPA.png) over the past few weeks, I’ve noticed a handful of questions about which metrics are worth paying attention to in the Facebook Ads reports console.
 

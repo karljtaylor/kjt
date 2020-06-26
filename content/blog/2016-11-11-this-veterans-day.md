@@ -1,9 +1,9 @@
 +++
 categories= ["holidays", "veterans"]
-date= 2016-11-11T18:47:49 
+date= 2016-11-11T18:47:49
 author = "karl taylor"
 title= "This Veteran’s Day"
-
+type = "post"
 +++
 I’m tempted to remind that 22 million veterans depend on the VA for care, and that 25.7 million dependents do as well. Those fine folks are serviced by some 360,000 VA employees ([source](https://www.va.gov/budget/docs/summary/Fy2017-BudgetInBrief.pdf).) It’d be easy to sneak in a line or two from that poem we only ever hear around this time in November.
 

@@ -1,9 +1,9 @@
 +++
 categories= ["traditional media", "marketing"]
-date= 2017-03-23T00:31:20 
+date= 2017-03-23T00:31:20
 author = "karl taylor"
 title= "It’s More Like Magazines"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/7a99a-1xqce7bpamhbsfk3gxoiy6a.png)  

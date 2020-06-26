@@ -3,7 +3,7 @@ categories= ["startups", "marketing", "growth"]
 date= 2017-05-17T00:13:37
 author = "karl taylor"
 title= "The Viral Lever."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/36285-1hjbefnyswo3eddspybzznq.png)  

@@ -3,7 +3,7 @@ categories= ["Writing", "reflection"]
 date= 2017-10-11T17:19:00
 author="karl taylor"
 title= "How I Learned To Love Pulp or:; On The Occasion Of The Birth Of Lewis Fry Richardson."
-
+type = "post"
 +++
 How I Learned To Love Pulp
 --------------------------

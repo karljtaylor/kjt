@@ -3,7 +3,7 @@ categories= ["marketing", "email marketing"]
 date= 2017-01-07T06:11:34
 author = "karl taylor"
 title= "Help Keep Your Account Secure"
-
+type = "post"
 +++
 
  #### Why Every Day Transactional Email Might Be Your Biggest Missed Opportunity of 2017

@@ -1,9 +1,9 @@
 +++
 categories= ["startups"]
-date= 2016-10-15T07:14:22 
+date= 2016-10-15T07:14:22
 author = "karl taylor"
 title= "The Accursed Thing."
-
+type = "post"
 +++
 [embed]https://www.youtube.com/watch?v=NksWZogTN6c[/embed]
 

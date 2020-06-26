@@ -1,8 +1,9 @@
 +++
 categories= ["content marketing"]
 date= 2017-08-11T18:22:30
-title= "'What The Taylor Swift Trial Taught Me About Local Content:'"
+title= "What The Taylor Swift Trial Taught Me About Local Content"
 author="karl taylor"
+type = "post"
 +++
 #### A Lesson About People Based Messaging And Doubting Your Analytics.
 

@@ -3,7 +3,7 @@ categories = ["analytics", "marketing", "startups"]
 date = 2016-12-13T04:53:19
 author = "karl taylor"
 title = "How Do We Know What To Test?"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/7193c-1xcw2yaachb3oxeaapbs6qq.png)  

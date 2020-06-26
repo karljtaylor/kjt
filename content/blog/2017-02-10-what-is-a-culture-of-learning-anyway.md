@@ -3,7 +3,7 @@ author = "karl taylor"
 categories= ["startups", "marketing"]
 date= 2017-02-10T00:01:19
 title= "What Is A Culture Of Learning, Anyway?"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/dca10-1dttbuggy-pkduvpjldvirw.png)  

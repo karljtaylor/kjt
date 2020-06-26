@@ -1,9 +1,9 @@
 +++
 author= "karl taylor"
 categories= ["advertising", "marketing"]
-date= 2017-02-10T00:31:24 
+date= 2017-02-10T00:31:24
 title= "Why It’s Worth The Long Hours"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/ec295-1m-sw_ovtmdsx9am8syitzq.png)  

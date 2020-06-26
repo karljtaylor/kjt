@@ -1,9 +1,9 @@
 +++
 author = "karl taylor"
-categories= ["marketing", "small business", "startups"]
-date= 2016-10-04T19:13:51
-title= "One Thing I Wish I’d Have Known A Few Years Ago"
-
+categories = ["marketing", "small business", "startups"]
+date = 2016-10-04T19:13:51
+title = "One Thing I Wish I’d Have Known A Few Years Ago"
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/60c7e-1n9xcb_xwfyzmjg5wldakxa.png)  

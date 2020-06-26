@@ -1,9 +1,9 @@
 +++
 author = "karl taylor"
 categories = ["marketing", "outdoor advertising", "analytics", "startups"]
-date = 2015-06-09T11:36:46 
-title= "I am told it works, even if you don't believe in it."
-
+date = 2015-06-09T11:36:46
+title = "I am told it works, even if you don't believe in it."
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/62ce6-1-vf0bxomrwrprpvpsjxxjg.jpeg)

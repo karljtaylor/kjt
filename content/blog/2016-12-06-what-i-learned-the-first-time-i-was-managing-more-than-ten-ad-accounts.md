@@ -1,9 +1,9 @@
 +++
-categories= ["startups", "marketing", "growth", "startups"]
+categories = ["startups", "marketing", "growth", "startups"]
 date= 2016-12-06T03:46:27
 author = "karl taylor"
-title= "What I Learned The First Time I Was Managing More Than Ten Ad Accounts"
-
+title = "What I Learned The First Time I Was Managing More Than Ten Ad Accounts"
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/73bb1-1thhwsgyfm7vketze8eezjw.png)  

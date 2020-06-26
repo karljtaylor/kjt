@@ -3,7 +3,7 @@ categories= ["startups", "Entrepreneurship", "Writing"]
 date= 2016-11-01T18:49:49
 author = "karl taylor"
 title= "When The Time Is Far Spent."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*A3_jW1V5PY9ZTtWOs1h25g.png)  

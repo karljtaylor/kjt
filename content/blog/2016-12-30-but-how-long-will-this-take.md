@@ -1,9 +1,9 @@
 +++
 author= "karl taylor"
 categories= ["marketing", "startups", "advertising", "growth"]
-date= 2016-12-30T20:41:35 
+date= 2016-12-30T20:41:35
 title= "“But How Long Will This Take”"
-
+type = "post"
 +++
 
  #### The Time It Takes For Your “Marketing To Work.”

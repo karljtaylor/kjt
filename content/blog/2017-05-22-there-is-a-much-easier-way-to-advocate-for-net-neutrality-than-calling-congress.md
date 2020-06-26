@@ -3,7 +3,7 @@ categories= ["analytics", "marketing", "media"]
 date= 2017-05-22T18:02:44
 author = "karl taylor"
 title= "There Is A Much Easier Way To Advocate For Net Neutrality Than Calling Congress."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/42c7b-1tptvpslc8amasfg4dje4iw.png)  

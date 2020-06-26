@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["traditional media", "tv", "marketing"]
 date= 2017-01-24T02:56:48
 title= "A Reluctant Reformed Cord Cutter"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/8a42a-19emb9yc4jxafthmvayae0w.png)  

@@ -1,9 +1,9 @@
 +++
-categories= ["marketing", "management", "agile", "process", "social media marketing"]
-date= 2016-10-06T16:21:10
+categories = ["marketing", "management", "agile", "process", "social media marketing"]
+date = 2016-10-06T16:21:10
 author = "karl taylor"
 title= "How We Sped Up Our Digital Rapid Response Capacity."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/15d5f-1p9qhpl3e3iese7uteiymjg.png)  

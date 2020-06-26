@@ -2,8 +2,8 @@
 categories= ["marketing", "writing"]
 date= 2016-10-11T17:20:33
 author = "karl taylor"
-title= "Blank Screen Problems."
-
+title = "Blank Screen Problems."
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/05208-1qrhizzes26-hapshop_suw.png)  

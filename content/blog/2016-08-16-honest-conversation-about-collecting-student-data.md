@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["analytics", "ethics", "edTech"]
 date= 2016-08-16T16:31:06
 title= "Honest Conversation About Collecting Student Data"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0d460-1fjmulfma8ucrba76vb_cag.png)  

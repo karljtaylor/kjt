@@ -3,7 +3,7 @@ categories= ["marketing", "messaging", "advertising"]
 date= 2016-10-25T16:48:52
 author = "karl taylor"
 title= "The Problem With “Widget, 5$.”"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/50ead-1ydsyhj1mhnllveoo-p9qsg.png)  

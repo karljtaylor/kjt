@@ -3,7 +3,7 @@ categories= ["growth", "marketing"]
 date= 2017-09-14T21:00:12
 title= "Three Things We’re At Risk Of Forgetting About What Drives Growth A Half Decade On"
 author="karl taylor"
-
+type = "post"
 +++
 ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/12Ak6TtY9dFUvwjKUeVScWMIQ.png)
 

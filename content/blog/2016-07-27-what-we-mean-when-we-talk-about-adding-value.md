@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["startups", "marketing"]
 date= 2016-07-27T21:08:35
 title= "What We Mean When We Talk About Adding Value."
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/9fed5-1fqbanxvjx0jq4z9csxitsa.png)  

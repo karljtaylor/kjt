@@ -1,9 +1,9 @@
 +++
 author= "karl taylor"
 categories= ["marketing", "small business", "analytics"]
-date= 2016-08-05T21:08:58 
+date= 2016-08-05T21:08:58
 title= "What To Do When The Digital Audience Information Doesn’t Make Any Sense"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/52f30-1tf5e_wfbk4l7avhhgzzmjq.png)

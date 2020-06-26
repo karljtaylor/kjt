@@ -3,7 +3,7 @@ categories= ["marketing", "startups", "Marketing", "Advertising"]
 date= 2016-11-17T02:04:44
 author = "karl taylor"
 title= "What I Think Content Shock Really Means For Advertisers And Marketers Alike"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/50e23-1ve0r7fx6qcyf1cbz1tcjnw.png)  

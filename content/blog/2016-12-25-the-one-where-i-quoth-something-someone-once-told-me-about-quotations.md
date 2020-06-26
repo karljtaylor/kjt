@@ -3,7 +3,7 @@ author= "karl taylor"
 categories = ["writing", "advice"]
 date = 2016-12-25T21:19:40
 title = "The One Where I Quoth Something Someone Once Told Me About Quotations"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b67a0-1qxkc-zrkbzmmfu0wdu6rna.png)  

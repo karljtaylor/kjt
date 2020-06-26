@@ -3,7 +3,7 @@ author= "karl taylor"
 categories= ["marketing", "small business"]
 date= 2016-08-19T22:34:38
 title= "What Your Business Can Learn From The Kollywood Cafe"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/aa656-1uog3w5im1mc-cwcn67bnvq.png)  

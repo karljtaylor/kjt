@@ -3,7 +3,7 @@ author = "karl taylor"
 categories= ["Writing", "brand", "analytics"]
 date= 2017-05-08T23:39:05
 title= "“Quality Is In The Eye Of The Beholder.”"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*jiuAAF9BDEIcMQQryew7bw.png)  

@@ -1,9 +1,9 @@
 +++
 author= "karl taylor"
 categories= ["advice", "startups"]
-date= 2016-12-28T06:45:42 
+date= 2016-12-28T06:45:42
 title= "The Difference Between Love And Obsession"
-
+type = "post"
 +++
 
  #### What I Think “Five Years’ Experience” Really Means And Why You Should Ignore It

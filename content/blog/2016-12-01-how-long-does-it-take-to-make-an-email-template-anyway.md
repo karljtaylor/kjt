@@ -3,7 +3,7 @@ categories = ["email marketing", "marketing", "startups"]
 date = 2016-12-01T00:59:45
 author = "karl taylor"
 title = "How Long Does It Take To Make An Email Template Anyway?"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/a6759-1p3phowkif8ldny-n8gvblw.png)  

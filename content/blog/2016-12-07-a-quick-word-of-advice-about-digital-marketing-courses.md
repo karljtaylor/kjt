@@ -3,7 +3,7 @@ categories= ["marketing", "education", "advice", "startups"]
 date= 2016-12-07T00:47:33
 author = "karl taylor"
 title= "A Quick Word Of Advice About Digital Marketing Courses"
-
+type = "post"
 +++
 
   ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/ac7bc-1h-41k2umuxuct-zwwzgyew.png)  
