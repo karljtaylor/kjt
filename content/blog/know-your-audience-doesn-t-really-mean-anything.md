@@ -1,8 +1,8 @@
 +++
 author = "karl taylor"
-categories = [""]
-date = ""
-description = ""
+categories = ["marketing", "startups"]
+date = 2019-07-29T12:07:00Z
+description = "There’s something that’s really been bothering me a lot lately as I’ve been thinking about the state of digital marketing more broadly, and it’s the number of times I encounter a sentiment that goes something like “it’s important to know the audience!”"
 draft = true
 featured = ""
 featuredalt = ""
