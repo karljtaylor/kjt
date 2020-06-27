@@ -1,6 +1,6 @@
 +++
 categories= ["startups", "marketing", "growth"]
-date= 2017-05-17T00:13:37
+date= "2017-05-17T00:13:37"
 author = "karl taylor"
 title= "The Viral Lever."
 type = "post"
@@ -42,3 +42,15 @@ type = "post"
  You aren’t the only person who does this — we all seem to.
 
  It isn’t magical, it’s just math.
+
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

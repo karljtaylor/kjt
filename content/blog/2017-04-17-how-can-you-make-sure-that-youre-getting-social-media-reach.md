@@ -82,8 +82,7 @@ type = "post"
 
  At the risk of overindulging that old entrepreneurial cliche you really can find one wherever people spend their time.
 
-
-    <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
      <p style="
       display: flex;
       align-items: center;

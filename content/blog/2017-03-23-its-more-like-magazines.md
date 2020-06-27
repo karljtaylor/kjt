@@ -164,15 +164,14 @@ type = "post"
 
  While these questions won’t be enough to make you an expert on any given community, they should be enough to kick start your efforts the next time you have to approach a part of the world you haven’t encountered before. Before too long, you’ll come to understand why many advertisers ([myself included](https://digital.sonnetaylor.com/why-its-worth-the-long-hours-7f1a43091e0b)) consider this the best part of the job.
 
-
-     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-      <p style="
-       display: flex;
-       align-items: center;
-       flex-direction: column;
-   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-        <input type="text" name="email" id="tlemail" style="
-       width: 140px;
-   "></p>
-      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-   </form>
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+     <p style="
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+       <input type="text" name="email" id="tlemail" style="
+      width: 140px;
+  "></p>
+     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+  </form>

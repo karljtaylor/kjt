@@ -1,7 +1,7 @@
 +++
 author = "karl taylor"
 categories = ["startups", "metrics", "facebook", "analytics"]
-date = 2017-05-03T21:04:15Z
+date = "2017-05-03T21:04:15"
 title = "You Only Really Need One Metric To Evaluate The Health Of A Facebook Page"
 type = "post"
 
@@ -72,15 +72,14 @@ Content made by a kid with an iPhone gets consumed at just about the same clip a
 
 The best way to do that is to listen to some.
 
-
-   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-     <p style="
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-       <input type="text" name="email" id="tlemail" style="
-      width: 140px;
-  "></p>
-     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-  </form>
+<form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+    <p style="
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+      <input type="text" name="email" id="tlemail" style="
+     width: 140px;
+ "></p>
+    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+ </form>

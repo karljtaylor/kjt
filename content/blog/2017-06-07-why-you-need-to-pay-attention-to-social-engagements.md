@@ -97,15 +97,14 @@ type = "post"
 
  This potent approach to looking at what it *means *when someone *engages* should help to put you in a position where you can calculate ***just how valuable*** any given activity on your page is — but you’ll still need to decide if the math makes sense for your business case.
 
-
-   <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-    <p style="
-     display: flex;
-     align-items: center;
-     flex-direction: column;
- "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-      <input type="text" name="email" id="tlemail" style="
-     width: 140px;
- "></p>
-    <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
- </form>
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+     <p style="
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+       <input type="text" name="email" id="tlemail" style="
+      width: 140px;
+  "></p>
+     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+  </form>

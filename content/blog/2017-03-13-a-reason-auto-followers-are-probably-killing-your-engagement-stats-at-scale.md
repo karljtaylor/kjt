@@ -54,15 +54,14 @@ type = "post"
 
  That means looking at tactics that can increase the number of people who engage with the average post. More often than not, that answer isn’t found by a better following game rather the production of higher-value content (which ought to be measured by the reaction it generates) or by engaging with others in more substantive ways (which ought to be measured by the audience and reaction it generations.)
 
-
-     <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-      <p style="
-       display: flex;
-       align-items: center;
-       flex-direction: column;
-   "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-        <input type="text" name="email" id="tlemail" style="
-       width: 140px;
-   "></p>
-      <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-   </form>
+ <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+     <p style="
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+       <input type="text" name="email" id="tlemail" style="
+      width: 140px;
+  "></p>
+     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+  </form>
