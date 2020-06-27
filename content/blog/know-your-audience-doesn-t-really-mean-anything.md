@@ -14,7 +14,7 @@ type = "post"
 +++
 # “Know Your Audience” Doesn’t Really Mean Anything
 
-![](AE3CE53A-AA10-4AF4-899E-5ED256C93DDE.png)
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/ae3ce53a-aa10-4af4-899e-5ed256c93dde.png)
 
 There’s something that’s really been bothering me a lot lately as I’ve been thinking about the state of digital marketing more broadly, and it’s the number of times I encounter a sentiment that goes something like “it’s important to know the audience!”
 
