@@ -43,7 +43,7 @@ includereadingtime = true
 loadfavicon = false
 mathjaxcdn = "//cdn.bootcss.com"
 mathjaxversion = "2.7.1"
-navbartitle = "Karl Taylor"
+navbartitle = "karl's blog"
 rssappearatbottom = true
 rssappearattop = true
 showsidebarcategories = true
@@ -61,8 +61,8 @@ socialsharetwitter = true
 viewmorepostlink = "/blog/"
 [params.intro]
 about = "Marketer  •  Human  •  Explorer of Worlds"
-header = "Welcome!"
-paragraph = "Here are a few of my thoughts..."
+header = "karl taylor"
+paragraph = "Marketer  •  Human  •  Explorer of Worlds"
 [params.intro.pic]
 alt = "Karl Taylor"
 circle = false
