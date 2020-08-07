@@ -41,11 +41,11 @@ Reading can be a hard habit to pick up because in many ways it requires you to b
 
 Over the last year, I've found myself slowly reading books of poems on my phone between meetings, and exploring an audiobook or two a day when I don't have a lot going on and don't feel like leaving the house. Sometimes I feel like audiobooks fill a void in my life that I used to fill with podcasts, and I find that when I approach reading that way, it's easier to fit in amongst the mix of media I'm already consuming. 
 
-* How did you get over the fatigue of 'having to read' too much?
-* How did you approach reading again after that struggle?
-* Why did you decide to take this on?
-* How did you decide what counted as a book?
-* What value can someone else take from this experience?
+That approach helped me to get over my 'reading fatigue.' By taking it less seriously, and by mixing up the format, I was able to find a place for books in my life again--but it really didn't look the same. The first book I read after that long break was Tarzan. 
+
+I decided that in order to reach my goal, I would be as charitable with my definition of 'book' as possible. I defined a book as anything that was published as a book. I've read collections of poems, and I've read a few children's stories. I decided that for me, maximizing my rate of learning was my goal, and the best way to do that was to increase the number of different voices I was learning from. 
+
+There are different reasons to read, and this goal might not work for you. I think the most important part is to find your own goal. After you've done that, it's funny how quickly the rest comes into focus.
 
 ### OK, But Do You Actually Retain Anything?
 
