@@ -59,10 +59,23 @@ Building the habit of taking good notes can help you to process what you've read
 
 ### That's So Many, Are Any Of Them Any Good?
 
-* Lesson about writing a bad first draft when writing, and how the same principle is probably true of reading
-* Exploration of places to get good ideas, places to get bad ideas
-* Paying attention to what authors of good books like
-* Balancing the time you have with the amount you're reading, and a sense of accomplishment.
+One of my favorite ideas about writing is Anne Lamott's suggestion of the importance of giving yourself permission to write a bad first draft. There's a great summary of this idea [here](https://medium.com/publishous/lessons-learned-about-writing-from-bird-by-bird-by-anne-lamott-7ec93912902c) (and for more you should check out the book [Bird by Bird](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)) 
+
+It's so often the case that in our first encounter with an idea, we're overwhelmed by possibility. Working out the details happens slowly, and often times the 'process,' can help to bring clarity to our thoughts, and focus our efforts. 
+
+I think the same principle is true of our reading. Reading is the process through which we often encounter new ideas and perspectives for the first time. Books can be sources of great ideas that challenge us and help us to grow, or they can serve to provide nourishment to our souls and reaffirm convictions we already hold. 
+
+Early on in my project, I discovered that reading books written _by_ people who were a participant in the topic of the book made for a better read. I learned that for me, one important power of reading was the ability to explore someone else's pattern and style of thought. That left me with an important question: how do I quickly discover the right 'book' for me. 
+
+Initially, I started by looking for reading lists published by organizations that I knew faced serious leadership challenges. I discovered that when it came to reading books that were are the forefront of ideas, my best resources were following venture capitalists and history professors on Twitter. I also found a lot of value out of looking for institutional reading lists. (One of my favorites is [here](https://jfsc.ndu.edu/About/A-Message-from-Commandant/))  
+
+I would make my own list based on what I found, and then pay attention for any time a book was mentioned more than once. The titles that met that criteria quickly ended up on my ' to read' list. 
+
+I also got into the habit of checking titles I was interested in on GoodReads and paying attention to which of my friends had read the title. I found this particularly helpful because it was easy to see if there were other books on the same topic that might have been a better choice than the title I was considering. I found this particularly helpful when I was reading a book in a genre like 'improving communication,' or biographies where you might have to navigate a mess of seemingly identical works to find the right one for you. 
+
+Once I started this process, I pretty quickly identified which authors I liked and which ones I wished I hadn't read. That list helped me to further refine my search for new books because I realized that writers often obsess over reading good writing. I've been able to leverage those insights to identify some of my favorite reads of the year. 
+
+One other trick really helped me--I decided that I wouldn't let myself 'abandon' any books. Even as I write this, there's one book on my list that is perilously close to becoming a 'did not finish' read, but I have had to accept that some books are just hard to get through. During my reading I also let myself read short books. I made space for a few 'children's stories,' because they fit a theme I was interested in exploring at the time. At first, I felt guilty about whether or not these books counted. As I read, I realized that I was most interested in the ideas I encountered and the styles I got to observe those ideas expressed in. For me, length didn't matter, and I learned a lot from the books I barely got through. I decided that rough spots were part of the process too, and it really helped me a lot. 
 
 ### OK But Audiobooks Are Expensive
 
