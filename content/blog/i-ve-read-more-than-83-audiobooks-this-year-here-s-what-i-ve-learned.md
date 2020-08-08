@@ -59,7 +59,7 @@ Building the habit of taking good notes can help you to process what you've read
 
 ### That's So Many, Are Any Of Them Any Good?
 
-One of my favorite ideas about writing is Anne Lamott's suggestion of the importance of giving yourself permission to write a bad first draft. There's a great summary of this idea [here](https://medium.com/publishous/lessons-learned-about-writing-from-bird-by-bird-by-anne-lamott-7ec93912902c) (and for more you should check out the book [Bird by Bird](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)) 
+One of my favorite ideas about writing is Anne Lamott's suggestion of the importance of permitting yourself to write a bad first draft. There's an excellent summary of this idea [here](https://medium.com/publishous/lessons-learned-about-writing-from-bird-by-bird-by-anne-lamott-7ec93912902c) (and for more you should check out the book [Bird by Bird](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)) 
 
 It's so often the case that in our first encounter with an idea, we're overwhelmed by possibility. Working out the details happens slowly, and often times the 'process,' can help to bring clarity to our thoughts, and focus our efforts. 
 
@@ -75,9 +75,25 @@ I also got into the habit of checking titles I was interested in on GoodReads an
 
 Once I started this process, I pretty quickly identified which authors I liked and which ones I wished I hadn't read. That list helped me to further refine my search for new books because I realized that writers often obsess over reading good writing. I've been able to leverage those insights to identify some of my favorite reads of the year. 
 
-One other trick really helped me--I decided that I wouldn't let myself 'abandon' any books. Even as I write this, there's one book on my list that is perilously close to becoming a 'did not finish' read, but I have had to accept that some books are just hard to get through. During my reading I also let myself read short books. I made space for a few 'children's stories,' because they fit a theme I was interested in exploring at the time. At first, I felt guilty about whether or not these books counted. As I read, I realized that I was most interested in the ideas I encountered and the styles I got to observe those ideas expressed in. For me, length didn't matter, and I learned a lot from the books I barely got through. I decided that rough spots were part of the process too, and it really helped me a lot. 
+One other trick really helped me--I decided that I wouldn't let myself 'abandon' any books. Even as I write this, there's one book on my list that is perilously close to becoming a 'did not finish' read, but I have had to accept that some books are just hard to get through. During my reading, I also let myself read short books. I made space for a few 'children's stories' because they fit a theme I was interested in exploring at the time. At first, I felt guilty about whether or not these books counted. As I read, I realized that I was most interested in the ideas I encountered and the styles I got to observe those ideas expressed in. For me, length didn't matter, and I learned a lot from the books I barely got through. I decided that rough spots were part of the process too, and it helped me a lot. 
 
 ### OK But Audiobooks Are Expensive
+
+This is completely true. It is a tragedy. 
+
+The first thing I have to be completely honest about is that if you're prepared to read in some unconventional sources, you can find a ton of stuff for free. Audible's launch of [Stories](stories.audible.com) was a huge help in this regard. You're probably engaging in some light piracy, but YouTube is a treasure trove of audiobook content and you can playback at 2x. That alone can get you started. 
+
+Speaking of finding books in strange places, you can also likely find a few audiobooks on both Spotify and Apple Music. I wasn't a huge fan of this because you are sort of forced to listen to your audiobook as though it were a song, and that is frustrating user experience. 
+
+The next resource I found 'sort' of helpful was a digital library card from my local library. My library had a [virtual library card](https://www.denverlibrary.org/blog/library-news/james/virtual-services-during-closure) program that included access to a selection of Overdrive and RBdigital books. I know that a number of libraries also offer to sell you a 'non-resident subscription' to their version of these services. A few are listed [here](https://www.aworldadventurebybook.com/blog/libraries-with-non-resident-borrowing-privileges). To be honest, it's a strange selection, and I often found the idea of waiting to 'check out' a digital file too inconvenient to deal with. 
+
+I was really tempted by Scribd's service. I love the idea of 'unlimited' books. It turns out this is a marketing lie. What they really mean is that you can stream 2-3 audiobooks a month for $9.99. After you've streamed those 2-3 books, you'll find that you are limited to accessing the rest of their library. I didn't find that part very valuable, but as a niche streaming service, those rates seem competitive. I did have to get a little more selective about which 2-3 books I picked, but it was manageable. 
+
+Amazon has a service called WhisperSync for voice. If you've ever purchased a Kindle book there's a very good chance you'll have a number of options to 'upgrade' that book to include an audiobook copy for a fee. You can check your eligible titles [here](https://www.amazon.com/hz/audible/matchmaker). A number of "classics" are available for purchase as Kindle books at a substantially discounted rate, and can be combined with audiobooks at a discounted price via this method, too. (I just bought the Adventures of Sherlock Holmes for $0.49!)  
+
+I suppose now is the right time to talk about Audible. I've paid for the 15.95/month Audible tier for as long as I can remember. Each month, I pick one book off my wishlist and use a credit to get it. On occasion, I'll take advantage of buying a multi-credit pack, or I'll look at one of the annual sales and might pick up a few extra titles that way. One important thing to keep in mind if you're a subscriber **_make sure you spend your credit on a book that costs more than your subscription_**_._ I can't stress this enough, but it's surprisingly easy to mess up. If you browse Audible from a desktop browser, you'll be able to check the 'member' price, and that will help you make good decisions about how to use whatever credits you have. 
+
+If I can't find a specific book using any of the above methods, then I know I'm going to have to break down and buy it for real. 
 
 * Be willing to find audiobooks in strange places (stories.audible, youtube, spotify, apple music)
 * Buy an audible subscription, pay attention to your cost per credit
