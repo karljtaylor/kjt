@@ -100,4 +100,6 @@ The other thing I've found pretty helpful is keeping an eye on the sales each of
 
 At the beginning of the year, I didn't think I was going to be able to hit my goal of reading sixty books. I figured that life would get in the way, and I'd be lucky to get through 12-20. I was very wrong, and I've been pleasantly surprised by just how much I've been able to read. 
 
-I'm even more surprised by just how effectively this project led me to explore topics I hadn't ever really considered before. As I've read this year, I've found myself making plans for what to read next and what to do with the knowledge I've gained. In both respects, it's a feeling I haven't felt in a long time, and I'm glad I took this project on. 
+I'm even more surprised by just how effectively this project led me to explore topics I hadn't ever really considered before. As I've read this year, I've found myself making plans for what to read next and what to do with the knowledge I've gained. In both respects, it's a feeling I haven't felt in a long time, and I'm glad I took this project on.
+
+<meta property="og:image" content="https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karljtaylor_i_read_83_books_heres_what_i_learned_cover_image.png">
