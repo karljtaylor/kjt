@@ -48,6 +48,9 @@
             {{ $.Scratch.Set "cssFiles" false }}
         {{ end }}
 
+        <meta property="fb:pages" content="1498245620197974" />
+
+
         <!-- If the value "default" is passed into the param then we will first
              load the standard css files associated with the theme -->
         {{ if or (in ($.Scratch.Get "cssFiles") "default") (eq ($.Scratch.Get "cssFiles") false) }}
