@@ -14,7 +14,7 @@ type = "post"
 +++
 # I've Read More Than 83 Audiobooks This Year, Here's What I've Learned
 
-<img>
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karljtaylor_i_read_83_books_heres_what_i_learned_cover_image.png)
 
 I spent a lot of time earlier this year, reflecting on what I thought might be some reasonable[ goals](https://blog.karljtaylor.com/blog/personal-okrs-2019/). I'd always read that the ranks of 'high throughput' readers were a [cool club](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year "Blinkist Survey Of High Throughput Readers"), and I knew that for me, listening was one the fastest ways to consume new information. In 2019, I managed to read something like [31 books](https://www.goodreads.com/user/year_in_books/2019/38299672). I decided that this year, I would try to read that sixty books I always heard average CEOs read.
 
