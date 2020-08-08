@@ -93,14 +93,9 @@ Amazon has a service called WhisperSync for voice. If you've ever purchased a Ki
 
 I suppose now is the right time to talk about Audible. I've paid for the 15.95/month Audible tier for as long as I can remember. Each month, I pick one book off my wishlist and use a credit to get it. On occasion, I'll take advantage of buying a multi-credit pack, or I'll look at one of the annual sales and might pick up a few extra titles that way. One important thing to keep in mind if you're a subscriber **_make sure you spend your credit on a book that costs more than your subscription_**_._ I can't stress this enough, but it's surprisingly easy to mess up. If you browse Audible from a desktop browser, you'll be able to check the 'member' price, and that will help you make good decisions about how to use whatever credits you have. 
 
-If I can't find a specific book using any of the above methods, then I know I'm going to have to break down and buy it for real. 
+If I can't find a specific book using any of the above methods, then I know I'm going to have to break down and buy it for real. I approach this problem by checking a few different resources. First, Audible's member price can often be very competitive. Second, I check both Apple Books and Google Play Books to see if either has the title on a sale. I generally find these prices to be within $0.50 of each other, but I have been surprised many, many times, so it's worth checking. I also look at [Chirp](https://www.chirpbooks.com/) and [audiobooks.com](https://www.audiobooks.com/) Between these four platforms, I can usually find what I'm looking for at a decent price. 
 
-* Be willing to find audiobooks in strange places (stories.audible, youtube, spotify, apple music)
-* Buy an audible subscription, pay attention to your cost per credit
-* Sign up for scribd. It's not really unlimited, but you'll be able to read 2-3 audiobooks a month.
-* If you find a book you might have to buy outright, pay attention to the cost of your book on the iBooks, Google Play Books, and Audible member price. These prices almost always compete.
-* Platforms like Chirp or Audiobooks.com occasionally have great deals.
-* Your local library likely has an RBDigital or Overdrive subscription.
+The other thing I've found pretty helpful is keeping an eye on the sales each of those platforms run. Oftentimes you can find promotions like 'under $5' or genre discounts that can get another title added to your list. 
 
 ## Conclusion
 
