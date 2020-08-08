@@ -93,12 +93,12 @@ Amazon has a service called WhisperSync for voice. If you've ever purchased a Ki
 
 I suppose now is the right time to talk about Audible. I've paid for the 15.95/month Audible tier for as long as I can remember. Each month, I pick one book off my wishlist and use a credit to get it. On occasion, I'll take advantage of buying a multi-credit pack, or I'll look at one of the annual sales and might pick up a few extra titles that way. One important thing to keep in mind if you're a subscriber **_make sure you spend your credit on a book that costs more than your subscription_**_._ I can't stress this enough, but it's surprisingly easy to mess up. If you browse Audible from a desktop browser, you'll be able to check the 'member' price, and that will help you make good decisions about how to use whatever credits you have. 
 
-If I can't find a specific book using any of the above methods, then I know I'm going to have to break down and buy it for real. I approach this problem by checking a few different resources. First, Audible's member price can often be very competitive. Second, I check both Apple Books and Google Play Books to see if either has the title on a sale. I generally find these prices to be within $0.50 of each other, but I have been surprised many, many times, so it's worth checking. I also look at [Chirp](https://www.chirpbooks.com/) and [audiobooks.com](https://www.audiobooks.com/) Between these four platforms, I can usually find what I'm looking for at a decent price. 
+If I can't find a specific book using any of the above methods, then I know I'm going to have to break down and buy it for real. I approach this problem by checking a few different resources. First, Audible's member price can often be very competitive. Second, I check both Apple Books and Google Play Books to see if either has the title on a sale. I generally find these prices to be within $0.50 of each other, but I have been surprised many, many times, so it's worth checking. I also look at [Chirp](https://www.chirpbooks.com/) and [audiobooks.com](https://www.audiobooks.com/). Between these four platforms, I can usually find what I'm looking for at a reasonable price. 
 
-The other thing I've found pretty helpful is keeping an eye on the sales each of those platforms run. Oftentimes you can find promotions like 'under $5' or genre discounts that can get another title added to your list. 
+The other thing I've found pretty helpful is keeping an eye on the sales each of those platforms run. Often you can find promotions like 'under $5' or genre discounts that can get another title added to your list--you just might have to be a little adventurous! 
 
-## Conclusion
+## I Reached My Goal
 
-* I was really surprised by how much I could read
-* I was even more surprised by how quickly I was able to explore completely new areas
-* I've found myself making plans for what I read when, and why, which is something I haven't done in years.
+At the beginning of the year, I didn't think I was going to be able to hit my goal of reading sixty books. I figured that life would get in the way, and I'd be lucky to get through 12-20. I was very wrong, and I've been pleasantly surprised by just how much I've been able to read. 
+
+I'm even more surprised by just how quickly this process lead me to explore areas I hadn't ever really considered before. As I've read this year, I've found myself making plans for what to read next and what to do with the knowledge I've gained. In both respects, it's a feeling I haven't felt in a really long time, and I'm glad I took this project on. 
