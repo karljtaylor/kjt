@@ -3,7 +3,6 @@ author = "karl taylor"
 categories = ["startups", "learning", "reading", "growth"]
 date = 2020-08-07T12:00:00Z
 description = "Earlier this year I set a goal of reading at least sixty books by the end of the year. I reached my goal a few weeks ago, and I wanted to share a few quick tips I've learned for reading a ton of audiobooks. "
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
