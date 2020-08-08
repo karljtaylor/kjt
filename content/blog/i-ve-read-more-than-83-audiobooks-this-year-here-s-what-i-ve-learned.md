@@ -11,7 +11,7 @@ title = "I've Read More Than 83 Audiobooks This Year, Here's What I've Learned"
 type = "post"
 
 +++
-# I've Read More Than 83 Audiobooks This Year, Here's What I've Learned
+# I've Read More Than 83 Books This Year, Here's What I've Learned
 
 ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karljtaylor_i_read_83_books_heres_what_i_learned_cover_image.png)
 
