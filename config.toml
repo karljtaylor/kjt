@@ -15,17 +15,12 @@ enableRobotsTXT = true
 [[menu.main]]
 name = "Subscribe"
 url = "https://tinyletter.com/karljtaylor"
-weight = 5
+weight = 4
 [[menu.main]]
 identifier = "fa fa-id-card-o"
 name = "About"
 url = "/about/"
 weight = 2
-[[menu.main]]
-identifier = "fa fa-newspaper-o"
-name = "Blog"
-url = "/blog/"
-weight = 3
 [[menu.main]]
 identifier = "fa fa-home"
 name = "Home"

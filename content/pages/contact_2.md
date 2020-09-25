@@ -4,7 +4,7 @@ date = "2018-08-05"
 identifier = "fa fa-envelope-o"
 name = "Contact"
 title = "Say Hello"
-weight = 4
+weight = 3
 
 +++
 Need to get in touch?
