@@ -13,20 +13,24 @@ title = "Karl Taylor"
 canonifyURLs = false
 enableRobotsTXT = true
 [[menu.main]]
-identifier = "fa fa-home"
-name = "Home"
-url = "/"
-weight = 1
+name = "Subscribe"
+url = "https://tinyletter.com/karljtaylor"
+weight = 5
+[[menu.main]]
+identifier = "fa fa-id-card-o"
+name = "About"
+url = "/about/"
+weight = 2
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
 url = "/blog/"
 weight = 3
 [[menu.main]]
-identifier = "fa fa-id-card-o"
-name = "About"
-url = "/about/"
-weight = 2
+identifier = "fa fa-home"
+name = "Home"
+url = "/"
+weight = 1
 [params]
 categoriesbycount = true
 customcss = ["default"]
@@ -71,6 +75,8 @@ src = "assets/karljtaylor-typewriter-image.png"
 width = ""
 [params.postamount]
 sidebar = 5
+[params.sidebar]
+displayCategories = false
 [params.staticman]
 branch = ""
 repo = ""
@@ -95,5 +101,3 @@ telegram = "karljtaylor"
 twitter = "karljtaylor"
 whatsapp = "+17206190810"
 youtube = "channel/UCUl7hXpIVxQHdwWIAzkzdmA"
-[params.sidebar]
-displayCategories = false
