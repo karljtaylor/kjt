@@ -2,7 +2,7 @@
 author = "karl taylor"
 categories = ["video"]
 date = "08/19/19"
-description = "Some footage departing SFO"
+description = "A video with the first few moments of a flight I took out of SFO"
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -11,6 +11,9 @@ title = "Leaving SFO"
 type = "post"
 
 +++
+
+I caught this footage on my flight departing SFO and thought I'd share it.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lnRO9dxAjLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
