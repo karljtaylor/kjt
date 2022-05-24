@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "I've Listened to More Than 83 Audiobooks This Year, Here's What I've Learned"
+title = "I've Read More Than 83 Audiobooks This Year, Here's What I've Learned"
 type = "post"
 
 +++
