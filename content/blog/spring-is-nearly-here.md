@@ -3,7 +3,6 @@ author = "karl taylor"
 categories = ["video", "nature"]
 date = 2021-05-06T12:00:00Z
 description = "It's hard to believe it, but things are finally looking like spring!"
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
