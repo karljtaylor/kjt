@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "karl taylor"
 categories = ["politics"]
 date = "2018-11-06T11:08:38-00:01"
 description = ""

@@ -10,7 +10,7 @@ format = ""
 link = ""
 linktitle = ""
 title = "how i'm (mostly) buying instagram ads."
-type = "itemized"
+type = "post"
 
 +++
 ![https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor-how-im-mostly-buying-instagram-ads.jpg](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karl-taylor-how-im-mostly-buying-instagram-ads.jpg)

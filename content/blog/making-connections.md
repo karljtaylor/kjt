@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = [""]
+categories = ["networking"]
 date = "2018-08-24T18:14:13-06:00"
 description = "a quick thought."
 featured = ""

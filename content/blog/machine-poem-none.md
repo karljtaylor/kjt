@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = ["", "machine poems", "generated text"]
+categories = ["machine poems", "generated text"]
 date = "2018-09-30T17:29:27-06:00"
 description = ""
 featured = ""
