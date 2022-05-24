@@ -62,6 +62,7 @@ fields:
   hidden: true
   default: post
 pages:
+- content/blog/a-month-in-the-hospital.md
 - content/blog/a-thought-about-brands-and-halloween.md
 - content/blog/a-walk-through-the-denver-botanic-gardens.md
 - content/blog/evolution-video.md
