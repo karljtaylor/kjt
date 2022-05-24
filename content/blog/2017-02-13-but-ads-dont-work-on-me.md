@@ -3,10 +3,11 @@ author= "karl taylor"
 categories= ["advertising", "marketing"]
 date= "2017-02-13T00:52:10"
 title= "“But Ads Don’t Work On Me.”"
+description="If you think ads don't work on you, you might just be an advertiser's favorite kind of customer"
 type = "post"
 +++
 
-\#\### Why It May Be Time To Rethink Your Skepticism
+### Why It May Be Time To Rethink Your Skepticism
 
   ![][image-1]  
 
