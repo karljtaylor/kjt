@@ -13,9 +13,9 @@ type = "post"
 +++
 The Denver Howl
 
-One rather startling thing has been happening the past few weeks. Each night at around 8 pm, people go outside and howl. 
+One rather startling thing has been happening the past few weeks. Each night at around 8 pm, people go outside and howl.
 
-I think this started off as an [effort to acknowledge the sacrifices of health care workers](https://www.thedenverchannel.com/news/coronavirus/how-denver-got-its-howl-and-what-it-means-to-those-fighting-coronavirus-on-the-front-lines?utm_source=karljtaylor.com&utm_medium=article+link&utm_campaign=denver_howl&utm_term=denver_howl_video&utm_content=article_link), but I think it's kind of just turned into a little bit of a free-for-all. 
+I think this started off as an [effort to acknowledge the sacrifices of health care workers](https://www.thedenverchannel.com/news/coronavirus/how-denver-got-its-howl-and-what-it-means-to-those-fighting-coronavirus-on-the-front-lines?utm_source=karljtaylor.com&utm_medium=article+link&utm_campaign=denver_howl&utm_term=denver_howl_video&utm_content=article_link), but I think it's kind of just turned into a little bit of a free-for-all.
 
 still, this feels like one of those once-in-a-lifetime moments and I wanted to share
 
