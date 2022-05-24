@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = ["videos"]
+categories = ["video"]
 date = "07/16/19"
 description = "A project I worked on a little while ago. "
 featured = ""
