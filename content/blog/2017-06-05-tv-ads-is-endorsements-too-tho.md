@@ -1,5 +1,5 @@
 +++
-categories= ["", "TV", "traditional media", "marketing"]
+categories= ["TV", "traditional media", "marketing"]
 date= "2017-06-05T22:15:36"
 author = "karl taylor"
 title = "TV Ads Is Endorsements Too, Tho."

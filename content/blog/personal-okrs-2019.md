@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = ["goals"]
+categories = ["goals","life","updates"]
 date = "2019-01-10T07:08:38-00:01"
 description = "An Adventure In Goal Setting"
 featured = ""

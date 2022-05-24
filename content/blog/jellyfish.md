@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = [""]
+categories = ["video"]
 date = 2022-05-09T12:00:00Z
 description = "these little guys are so relaxing"
 featured = ""
