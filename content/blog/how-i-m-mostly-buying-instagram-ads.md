@@ -1,8 +1,8 @@
 +++
 author = "karl taylor"
-categories = []
+categories = ["instagram","advertising"]
 date = "2018-11-02T20:38:04-07:00"
-description = "instagram ads work a lot better when you create them from the instagram app."
+description = "despite the negative hype, some instagram ads work a lot better when you create them from the instagram app."
 featured = ""
 featuredalt = ""
 featuredpath = ""

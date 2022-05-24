@@ -1,6 +1,6 @@
 +++
-author = ""
-categories = [""]
+author = "karl taylor"
+categories = ["brands","marketing","holidays"]
 date = "2018-10-29T15:25:06-06:00"
 description = ""
 draft = true
