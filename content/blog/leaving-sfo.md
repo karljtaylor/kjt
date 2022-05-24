@@ -1,6 +1,6 @@
 +++
 author = "karl taylor"
-categories = ["", "videos"]
+categories = ["video"]
 date = "08/19/19"
 description = "Some footage departing SFO"
 featured = ""
