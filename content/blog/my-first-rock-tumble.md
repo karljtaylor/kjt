@@ -3,6 +3,7 @@ author = "karl taylor"
 categories = ["video", "life", "update"]
 date = 2022-05-01T12:00:00Z
 description = "I needed a hobby, and so I decided to try my hand at rock tumbling."
+draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -12,6 +13,8 @@ type = "post"
 
 +++
 # My First Rock Tumble
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/karljtaylor-my-first-rock-tumble.png)
 
 I've been trying really hard to do a better job about taking time away from work to do things that don't have anything to do with marketing or....content creation, and to be honest that's been really hard. I've always really liked rocks, and so I decided to try my hand at rock tumbling.
 
