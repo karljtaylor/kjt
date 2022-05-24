@@ -19,10 +19,6 @@ fields:
   default: true
 pages:
 - content/pages/contact.md
-- content/pages/contact.md
-- content/pages/hey--y-all.md
 - content/pages/hey--y-all.md
 - content/pages/privacy-policy.md
-- content/pages/privacy-policy.md
-- content/pages/the-end-is-not-yet.md
 - content/pages/the-end-is-not-yet.md
