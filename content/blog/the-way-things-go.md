@@ -27,7 +27,7 @@ To play around with this idea, I wanted to make a quick video using the things I
 
 here is the result:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NKgthAuKSzw&modestbranding=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NKgthAuKSzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It's not great, by any means, but it was a fun little afternoon project, and a good reminder of just how much easier some of these production workflows have really gotten. There's no reason why a small project can't have video. It's just gotten that much easier.
 
