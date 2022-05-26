@@ -71,7 +71,7 @@ width = ""
 [params.postamount]
 sidebar = 5
 [params.sidebar]
-displayCategories = false
+displayCategories = true
 [params.staticman]
 branch = ""
 repo = ""
