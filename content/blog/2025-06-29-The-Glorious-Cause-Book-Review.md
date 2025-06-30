@@ -1,6 +1,6 @@
 +++
 author= "karl taylor"
-categories= [“books”, “reviews”]
+categories= “reviews”
 date= "2025-06-29T19:56:09"
 type= "post"
 featured= ""
