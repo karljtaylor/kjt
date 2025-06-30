@@ -1,12 +1,8 @@
 +++
 author= "karl taylor"
-categories= “reviews”
+categories= [“reviews”]
 date= "2025-06-29T19:56:09"
 type= "post"
-featured= ""
-featuredalt= ""
-featuredpath= ""
-linktitle= ""
 title= "Book Review: The Glorious Cause – A Monumental Chronicle of America’s Fight for Independence"
 +++
 
