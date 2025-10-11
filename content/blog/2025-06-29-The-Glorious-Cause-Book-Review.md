@@ -32,4 +32,7 @@ Rated 5 out of 5 by this reviewer, *The Glorious Cause* stands out for its vivid
 
 Middlekauff’s work is indispensable for serious students of American history, blending scholarly rigor with compelling storytelling. Whether you're revisiting the Revolution or discovering it anew, this book offers a comprehensive, humanized view of a pivotal chapter in world history.
 
+**Buy Your Copy:**
+You can get your own copy at Amazon (affiliate link below) or wherever fine independent books are sold. 
 🔗 [Purchase your copy here](https://amzn.to/4nmJKIt)
+<script src=https://bookshop.org/widgets.js data-type="book_button" data-affiliate-id="117786" data-sku="9780195315882"></script>
