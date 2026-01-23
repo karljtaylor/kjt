@@ -1,0 +1,10 @@
+# Drafts (keep template, ignore actual drafts)
+content/drafts/*
+!content/drafts/_template.md
+
+# macOS
+.DS_Store
+
+# Hugo
+public/
+resources/
