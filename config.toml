@@ -13,6 +13,10 @@ title = "Karl Taylor"
 canonifyURLs = false
 enableRobotsTXT = true
 [[menu.main]]
+name = "Contact"
+url = "https://kjt.world/?utm_source=karljtaylor&utm_medium=blog&utm_content=menu&utm_term=contact"
+weight = 3
+[[menu.main]]
 name = "Subscribe"
 url = "https://karljtaylor.substack.com/?utm_source=karljtaylor&utm_medium=blog&utm_term=subscribe"
 weight = 4
