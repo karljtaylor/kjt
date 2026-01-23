@@ -14,7 +14,7 @@ canonifyURLs = false
 enableRobotsTXT = true
 [[menu.main]]
 name = "Subscribe"
-url = "https://tinyletter.com/karljtaylor"
+url = "https://karljtaylor.substack.com/?utm_source=karljtaylor&utm_medium=blog&utm_term=subscribe"
 weight = 4
 [[menu.main]]
 identifier = "fa fa-id-card-o"
