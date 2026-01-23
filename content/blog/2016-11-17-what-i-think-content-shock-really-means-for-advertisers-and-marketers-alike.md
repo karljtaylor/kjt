@@ -6,71 +6,71 @@ title= "What I Think Content Shock Really Means For Advertisers And Marketers Al
 type = "post"
 +++
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/50e23-1ve0r7fx6qcyf1cbz1tcjnw.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/50e23-1ve0r7fx6qcyf1cbz1tcjnw.png)  
 
 
- I’ve written a lot of articles over the course of the past year. Only of a fraction of them have made it here, and I’m not sure that I even know where I’d start trying to make an accurate accounting.
+I’ve written a lot of articles over the course of the past year. Only of a fraction of them have made it here, and I’m not sure that I even know where I’d start trying to make an accurate accounting.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b3251-1oclp4nevstnmeghd8yi7_a.jpeg)  
-
-
- It’s easy to forget just how often the answer to the growing troubles of content shock is “better” which really isn’t that far off from “more.” That work doesn’t come out of thin air. It means better ideas. It means making things faster.
-
- One of the first few days after we had reached the level of monthly billings where we felt like the sky wasn’t falling, I had a terrifying thought. It occurred to me that over the months prior we had planned every aspect of our business. We looked at the customer interactions, we looked at the experience we looked at the targets and objectives. We had looked at everything but the cost of actually doing the work.
-
- I don’t mean that we had just made numbers up, we knew well enough to solve for each client’s unique needs. What we hadn’t done was take the time to step back and look at the demands that meeting each of those needs in aggregate would place on our organization.
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0211d-1c5rq9d2-8sdmv7xrp8otbw.jpeg)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b3251-1oclp4nevstnmeghd8yi7_a.jpeg)  
 
 
- To give you some idea of the volume, if one small business is active on two social platforms where they’d like post daily, that’s 10 pieces of content a week. Each of those pieces of content needs to be promoted if it has a chance of being seen — which takes about fifteen minutes a post to set up and should be checked once an hour for at least five minutes, each hour the ad is live. Higher volume ads should be checked more frequently.
+It’s easy to forget just how often the answer to the growing troubles of content shock is “better” which really isn’t that far off from “more.” That work doesn’t come out of thin air. It means better ideas. It means making things faster.
 
- Let’s say you’re servicing 10 accounts. That’s a pretty healthy start for a boutique, and while you can’t stay there very long, it’s a really good example and that’s all I’m using it for.
+One of the first few days after we had reached the level of monthly billings where we felt like the sky wasn’t falling, I had a terrifying thought. It occurred to me that over the months prior we had planned every aspect of our business. We looked at the customer interactions, we looked at the experience we looked at the targets and objectives. We had looked at everything but the cost of actually doing the work.
 
- That’s 10 accounts, each on 2 channels a piece, for 20 properties, each getting five posts a week. Each of those 100 posts will require around a half hour of ad operations. This is assuming everything goes according to plan, and that very tight timelines are maintained. It assumes 0 meetings. There are never 0 meetings.
+I don’t mean that we had just made numbers up, we knew well enough to solve for each client’s unique needs. What we hadn’t done was take the time to step back and look at the demands that meeting each of those needs in aggregate would place on our organization.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0119e-1vtewm5ldesaubxfhrekhtw.jpeg)  
-
-
- It would be very tempting to react by planning accordingly, but one of the things I’ve found most curious as we worked through that problem is the ease with which a creative task can expand to fill the time provided.
-
- When I was working to find a way out of that mess, I had to take a serious look at the way we did everything. One thing I noticed was that when we were monitoring an account in real time (say, the comments on a post) we were losing a ton of time.
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/968f2-1u_xycr2ql9ost-bgaarbxa.jpeg)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0211d-1c5rq9d2-8sdmv7xrp8otbw.jpeg)  
 
 
- I was surprised by this.
+To give you some idea of the volume, if one small business is active on two social platforms where they’d like post daily, that’s 10 pieces of content a week. Each of those pieces of content needs to be promoted if it has a chance of being seen — which takes about fifteen minutes a post to set up and should be checked once an hour for at least five minutes, each hour the ad is live. Higher volume ads should be checked more frequently.
 
- Social media moves quickly, and you would expect that it would be managed in the same way.
+Let’s say you’re servicing 10 accounts. That’s a pretty healthy start for a boutique, and while you can’t stay there very long, it’s a really good example and that’s all I’m using it for.
 
- As i examined our process, what I found was that while conversations on the network evolve rapidly, the high visibility means that any change tends to pass through a number of high-profile gatekeepers.
+That’s 10 accounts, each on 2 channels a piece, for 20 properties, each getting five posts a week. Each of those 100 posts will require around a half hour of ad operations. This is assuming everything goes according to plan, and that very tight timelines are maintained. It assumes 0 meetings. There are never 0 meetings.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/a9546-1pg3e0zihiwvujdeb3by3vq.jpeg)  
-
-
- These gatekeepers serve an important role. They’re tasked with making sure that certain key objectives are satisfied. They’re tasked with making sure that things are done the right way. They’re in place to increase the odds of a “better” outcome.
-
- But often times, they aren’t getting the right information because they don’t know they should be asking for it.
-
- When I stepped back and looked at our post times and our obligations, it became obvious that what we had to do was streamline the way we kept things on message.
-
- We haven’t found one solution that fixes this forever, what we’ve found instead is that many small things make for a functional approval flow. When we’re working real time, we make sure the people making the content are in the same room as the people who are engaging with the network — and that the person responsible for giving the go-ahead is right there in the mix.
-
- There isn’t anything remarkable about that. It’s having a little bit better routine, and taking advantage of it to make more. But while I’ve been shocked that the mechanism is so simple, the outcomes have been remarkable.
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/16d67-13eoznqh3hsardiwtcjjvzw.jpeg)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0119e-1vtewm5ldesaubxfhrekhtw.jpeg)  
 
 
- A better process doesn’t mean you can make the challenges of standing out in a crowded landscape go away. A process that makes it easier to respond to what’s actually going on means that you’re going to be engaging with the world the way it is. I think that will always work. It works because that’s where the people who you’re trying to reach, live.
+It would be very tempting to react by planning accordingly, but one of the things I’ve found most curious as we worked through that problem is the ease with which a creative task can expand to fill the time provided.
 
- <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-     <p style="
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-       <input type="text" name="email" id="tlemail" style="
-      width: 140px;
-  "></p>
-     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-  </form>
+When I was working to find a way out of that mess, I had to take a serious look at the way we did everything. One thing I noticed was that when we were monitoring an account in real time (say, the comments on a post) we were losing a ton of time.
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/968f2-1u_xycr2ql9ost-bgaarbxa.jpeg)  
+
+
+I was surprised by this.
+
+Social media moves quickly, and you would expect that it would be managed in the same way.
+
+As i examined our process, what I found was that while conversations on the network evolve rapidly, the high visibility means that any change tends to pass through a number of high-profile gatekeepers.
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/a9546-1pg3e0zihiwvujdeb3by3vq.jpeg)  
+
+
+These gatekeepers serve an important role. They’re tasked with making sure that certain key objectives are satisfied. They’re tasked with making sure that things are done the right way. They’re in place to increase the odds of a “better” outcome.
+
+But often times, they aren’t getting the right information because they don’t know they should be asking for it.
+
+When I stepped back and looked at our post times and our obligations, it became obvious that what we had to do was streamline the way we kept things on message.
+
+We haven’t found one solution that fixes this forever, what we’ve found instead is that many small things make for a functional approval flow. When we’re working real time, we make sure the people making the content are in the same room as the people who are engaging with the network — and that the person responsible for giving the go-ahead is right there in the mix.
+
+There isn’t anything remarkable about that. It’s having a little bit better routine, and taking advantage of it to make more. But while I’ve been shocked that the mechanism is so simple, the outcomes have been remarkable.
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/16d67-13eoznqh3hsardiwtcjjvzw.jpeg)  
+
+
+A better process doesn’t mean you can make the challenges of standing out in a crowded landscape go away. A process that makes it easier to respond to what’s actually going on means that you’re going to be engaging with the world the way it is. I think that will always work. It works because that’s where the people who you’re trying to reach, live.
+
+<form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+<p style="
+display: flex;
+align-items: center;
+flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+<input type="text" name="email" id="tlemail" style="
+width: 140px;
+"></p>
+<input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>

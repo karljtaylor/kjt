@@ -6,64 +6,64 @@ title= "What I Wondered Spending An Afternoon Building Our iMessage Sticker App"
 type = "post"
 +++
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0a90c-1ou8wnmbsv0rbhc7nzxi8pg.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0a90c-1ou8wnmbsv0rbhc7nzxi8pg.png)  
 
 
- I got it into my head late last week that we ought to recycle a few of the illustrations we’ve been generating over the last year.
+I got it into my head late last week that we ought to recycle a few of the illustrations we’ve been generating over the last year.
 
- I wasn’t quite sure what I’d do with the stack, so I started with all the usual suspects. I fiddled with mugs, priced out pins whole nine yards.
+I wasn’t quite sure what I’d do with the stack, so I started with all the usual suspects. I fiddled with mugs, priced out pins whole nine yards.
 
- Somewhere in the midst of an afternoon spent pricing out merch, I noticed I had a text message.
+Somewhere in the midst of an afternoon spent pricing out merch, I noticed I had a text message.
 
- I realized I had been sending a lot more texts using iMessage stickers, and I figured I might as well spend the time fiddling together a sticker pack.
+I realized I had been sending a lot more texts using iMessage stickers, and I figured I might as well spend the time fiddling together a sticker pack.
 
- It’s a great process, and while I’ll try and resist the urge to soapbox too hard, but [adelyn](https://medium.com/u/bdd40bdfae26) has a delightful set “[From Sketches to the iMessage Store](https://blog.prototypr.io/from-sketches-to-the-imessage-app-store-how-i-got-my-stickers-published-in-8-days-part-2-of-2-ba09b9a98fbd#.9oksjcf5h)…” that’s a great place to start checking out the medium.
+It’s a great process, and while I’ll try and resist the urge to soapbox too hard, but [adelyn](https://medium.com/u/bdd40bdfae26) has a delightful set “[From Sketches to the iMessage Store](https://blog.prototypr.io/from-sketches-to-the-imessage-app-store-how-i-got-my-stickers-published-in-8-days-part-2-of-2-ba09b9a98fbd#.9oksjcf5h)…” that’s a great place to start checking out the medium.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/854db-1q7thl2suqtkyogyuhz6kda.png)  
-
-
- After resizing a few rough images to use as first version placeholders, I started the process of validating and uploading the app.
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/879e3-1e6fysndxjo8vtp21ncov4w.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/854db-1q7thl2suqtkyogyuhz6kda.png)  
 
 
- Steps went great. Time to upload.
+After resizing a few rough images to use as first version placeholders, I started the process of validating and uploading the app.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/10602-1b0d4ra6o2np3pmqxxsfpaq.png)  
-
-
- Or to wait…
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0d5ba-19ucf6c7xi3wgld3dl5o57a.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/879e3-1e6fysndxjo8vtp21ncov4w.png)  
 
 
- and wait…
+Steps went great. Time to upload.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/4756d-1lolti4qr2ubwhuylw4f7lw.png)  
-
-
- and wait.
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b80e5-1pnnojmvxc7ccxwzsjvdm8a.gif)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/10602-1b0d4ra6o2np3pmqxxsfpaq.png)  
 
 
- We spend a lot of time building out screens for things that aren’t happening in a way that a user might want real updates about. We bury actual settings in consoles and logs and we hope that by doing this we’ll manage complexity in such a way that only the folks who want to be bothered by it are.
+Or to wait…
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/8527c-1f1knbiuyfysydb5buueixq.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/0d5ba-19ucf6c7xi3wgld3dl5o57a.png)  
 
 
- But even if something like this screen feels reassuring, it hasn’t done much more than pay lip service to what are otherwise relatively high minded ideals. This loading screen isn’t any more simple than any other, it just looks like it.
+and wait…
 
- That’s not a change, it’s a fresh coat of paint.
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/4756d-1lolti4qr2ubwhuylw4f7lw.png)  
 
- <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-     <p style="
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-       <input type="text" name="email" id="tlemail" style="
-      width: 140px;
-  "></p>
-     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-  </form>
+
+and wait.
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/b80e5-1pnnojmvxc7ccxwzsjvdm8a.gif)  
+
+
+We spend a lot of time building out screens for things that aren’t happening in a way that a user might want real updates about. We bury actual settings in consoles and logs and we hope that by doing this we’ll manage complexity in such a way that only the folks who want to be bothered by it are.
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/8527c-1f1knbiuyfysydb5buueixq.png)  
+
+
+But even if something like this screen feels reassuring, it hasn’t done much more than pay lip service to what are otherwise relatively high minded ideals. This loading screen isn’t any more simple than any other, it just looks like it.
+
+That’s not a change, it’s a fresh coat of paint.
+
+<form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+<p style="
+display: flex;
+align-items: center;
+flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+<input type="text" name="email" id="tlemail" style="
+width: 140px;
+"></p>
+<input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>

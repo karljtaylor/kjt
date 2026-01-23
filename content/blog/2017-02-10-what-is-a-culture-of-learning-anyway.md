@@ -6,86 +6,86 @@ title= "What Is A Culture Of Learning, Anyway?"
 type = "post"
 +++
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/dca10-1dttbuggy-pkduvpjldvirw.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/dca10-1dttbuggy-pkduvpjldvirw.png)  
 
 
- I didn’t always work in communications.
+I didn’t always work in communications.
 
- Before finding my way into the world of Advertising, I dabbled in a handful of different worlds. What I’ve found is that while it’s tempting to fall for the allure of the old idea that everything could better somewhere else, the truth is each industry has its own ups and downs.
+Before finding my way into the world of Advertising, I dabbled in a handful of different worlds. What I’ve found is that while it’s tempting to fall for the allure of the old idea that everything could better somewhere else, the truth is each industry has its own ups and downs.
 
- One of the most curious I’ve started to notice is that it seems as though many times the qualities that make something “good,” when carried to their extremes can also make something “bad.”
+One of the most curious I’ve started to notice is that it seems as though many times the qualities that make something “good,” when carried to their extremes can also make something “bad.”
 
- I want to talk about one of those “downs,” in particular.
+I want to talk about one of those “downs,” in particular.
 
- To be more specific, I want to talk about the idea of striving to always learn something new.
+To be more specific, I want to talk about the idea of striving to always learn something new.
 
- I don’t think there’s anything wrong with the goal of learning more. I also don’t think it’s particularly dangerous to want to get better at your chosen craft.
+I don’t think there’s anything wrong with the goal of learning more. I also don’t think it’s particularly dangerous to want to get better at your chosen craft.
 
- When I wasn’t feeling confident in the way I managed multi-stage projects, I started obsessing about it. I read everything I could about people who had experienced the same sort of challenges. I studied different ways of organizing work. I experimented with different schemas. I found one that worked for me and I went to work trying to make it perfect.
+When I wasn’t feeling confident in the way I managed multi-stage projects, I started obsessing about it. I read everything I could about people who had experienced the same sort of challenges. I studied different ways of organizing work. I experimented with different schemas. I found one that worked for me and I went to work trying to make it perfect.
 
- I think many times, people start trying to get better at something with the best of intentions. But sometimes, the rush of that quest for perfection can lead to negative consequences.
+I think many times, people start trying to get better at something with the best of intentions. But sometimes, the rush of that quest for perfection can lead to negative consequences.
 
- If you’re reading this article and happen to have a familiarity with the flora and fauna of the Southwestern United States, you may have noticed I started this blog off with a graphic including a drawing of a familiar variety of cactus. ([***Cylindropuntia***](https://en.wikipedia.org/wiki/Cylindropuntia)*** ***for the curious,) and the truth is it isn’t an accident.
+If you’re reading this article and happen to have a familiarity with the flora and fauna of the Southwestern United States, you may have noticed I started this blog off with a graphic including a drawing of a familiar variety of cactus. ([***Cylindropuntia***](https://en.wikipedia.org/wiki/Cylindropuntia)*** ***for the curious,) and the truth is it isn’t an accident.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/5b0ee-1csdbaxliynqsbzkrbwov2w.png)  
-
-
- You’ll quickly understand why some varieties are known for their jump, if you spread a stack of pennies across a solid wood surface like a desk. Tap your finger underneath the pennies.
-
- It might take a few tries, but you’ll notice they come towards the source of the vibration.
-
- Alternatively, you can give this video a look. Try to avoid watching with sound if you’re sensitive to language. (I spent fifteen minutes trying to find an alternative, consider it a testament to the pain.)
-
- [embed]https://www.youtube.com/watch?v=gfjV4BbXfZU[/embed]
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/daaf2-1xjrckabstyp595eblq4p3a.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/5b0ee-1csdbaxliynqsbzkrbwov2w.png)  
 
 
- The arrow-headed shape of the barbs on some varieties contribute to the pain.
+You’ll quickly understand why some varieties are known for their jump, if you spread a stack of pennies across a solid wood surface like a desk. Tap your finger underneath the pennies.
 
- [embed]https://www.youtube.com/watch?v=Yi7VZHzF9C0[/embed]
+It might take a few tries, but you’ll notice they come towards the source of the vibration.
 
- Some varieties even leave a salt behind.
+Alternatively, you can give this video a look. Try to avoid watching with sound if you’re sensitive to language. (I spent fifteen minutes trying to find an alternative, consider it a testament to the pain.)
 
- [embed]https://www.youtube.com/watch?v=dJzTse9Dsaw[/embed]
+[embed]https://www.youtube.com/watch?v=gfjV4BbXfZU[/embed]
 
- Sometimes when I think I about working in advertising, I’m reminded of walking through a garden of cacti.
-
- I know that on more than one occasion, I’ve been guilty of saying something pointed that added at best a nominal amount of value to tense situations. But I also know that I’m not the only one to have been on both sides of the phenomena.
-
- Some of my favorite copywriters and designers have life stories that are impossible to hear without feeling a sense of awe. I think part of the reason this experience stands out so strongly in the advertising industry in particular, is that many of us come to this space after experiencing intense rejections.
-
- I think that beyond that, nearly every client has had an unsatisfactory advertising experience. Sometimes it’s malicious, sometimes it’s an indicator of a deeper problem, sometimes it’s just how it goes. But how often do we let those experiences color the way we look at what happens next?
-
- When you have an unfortunate encounter with a cactus, you pick the barbs out.
-
- What happens when those barbs are pointed ‘critiques,’ that weren’t ever meant to add value?
-
- I think we carry them around with us, and I’m not sure if that’s the most healthy thing we could be doing.
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/d9e6c-1zmsxbs7eps0mz36jj9v6ra.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/daaf2-1xjrckabstyp595eblq4p3a.png)  
 
 
- Growth requires us to learn from our shortcomings, but if we aren’t honest about the environment in which they occur, we aren’t ever going to be able to sort out the pieces and make the changes that have to be made to improve things.
+The arrow-headed shape of the barbs on some varieties contribute to the pain.
 
- The truth is, it’s a lot easier to point out where a problem is than it is to come up with an idea to do something about it. It’s even easier to fall into the trap of expecting that we can venture closer to an edge without occasionally running the risk of encountering a barb or two.
+[embed]https://www.youtube.com/watch?v=Yi7VZHzF9C0[/embed]
 
- What matters isn’t the barb. It’s what happens next.
+Some varieties even leave a salt behind.
 
- You can learn a lot more from your strong negative reactions than you can from your strong positives.
+[embed]https://www.youtube.com/watch?v=dJzTse9Dsaw[/embed]
 
- If you’re really committed to building the kind of culture where everyone’s working towards the goal of getting better, you’re not going to see the progress you’re hoping for until the way you think about problems changes.
+Sometimes when I think I about working in advertising, I’m reminded of walking through a garden of cacti.
 
- That’s what I try to remember whenever “growth,” doesn’t feel as easy as it should. Sometimes, the right answer just jumps out at you.
+I know that on more than one occasion, I’ve been guilty of saying something pointed that added at best a nominal amount of value to tense situations. But I also know that I’m not the only one to have been on both sides of the phenomena.
 
- <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-     <p style="
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-       <input type="text" name="email" id="tlemail" style="
-      width: 140px;
-  "></p>
-     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-  </form>
+Some of my favorite copywriters and designers have life stories that are impossible to hear without feeling a sense of awe. I think part of the reason this experience stands out so strongly in the advertising industry in particular, is that many of us come to this space after experiencing intense rejections.
+
+I think that beyond that, nearly every client has had an unsatisfactory advertising experience. Sometimes it’s malicious, sometimes it’s an indicator of a deeper problem, sometimes it’s just how it goes. But how often do we let those experiences color the way we look at what happens next?
+
+When you have an unfortunate encounter with a cactus, you pick the barbs out.
+
+What happens when those barbs are pointed ‘critiques,’ that weren’t ever meant to add value?
+
+I think we carry them around with us, and I’m not sure if that’s the most healthy thing we could be doing.
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/d9e6c-1zmsxbs7eps0mz36jj9v6ra.png)  
+
+
+Growth requires us to learn from our shortcomings, but if we aren’t honest about the environment in which they occur, we aren’t ever going to be able to sort out the pieces and make the changes that have to be made to improve things.
+
+The truth is, it’s a lot easier to point out where a problem is than it is to come up with an idea to do something about it. It’s even easier to fall into the trap of expecting that we can venture closer to an edge without occasionally running the risk of encountering a barb or two.
+
+What matters isn’t the barb. It’s what happens next.
+
+You can learn a lot more from your strong negative reactions than you can from your strong positives.
+
+If you’re really committed to building the kind of culture where everyone’s working towards the goal of getting better, you’re not going to see the progress you’re hoping for until the way you think about problems changes.
+
+That’s what I try to remember whenever “growth,” doesn’t feel as easy as it should. Sometimes, the right answer just jumps out at you.
+
+<form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+<p style="
+display: flex;
+align-items: center;
+flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+<input type="text" name="email" id="tlemail" style="
+width: 140px;
+"></p>
+<input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>

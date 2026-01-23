@@ -6,44 +6,44 @@ title= "“Quality Is In The Eye Of The Beholder.”"
 type = "post"
 +++
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*jiuAAF9BDEIcMQQryew7bw.png)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*jiuAAF9BDEIcMQQryew7bw.png)  
 
 
- I can’t tell you how many times I’ve heard some version of that idea.
+I can’t tell you how many times I’ve heard some version of that idea.
 
- Growing up, I remember keeping a list of each time I ran into it. I don’t know that I kept it up, but I do know I first heard it as a shoddy explanation from a caricature of a public school art teacher.
+Growing up, I remember keeping a list of each time I ran into it. I don’t know that I kept it up, but I do know I first heard it as a shoddy explanation from a caricature of a public school art teacher.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*V4OVxYLgQLv65bfGWV69tQ.jpeg)  
-
-
- I normally write slightly longer posts, but I just wanted to take a moment to share one thought.
-
- I think this sentence was meaningless. It was code for “I don’t like your thing and you should feel bad.”
-
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*0EoCpgR0mVM5y2Elkqvm9A.jpeg)  
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*V4OVxYLgQLv65bfGWV69tQ.jpeg)  
 
 
- It is important to remember that in today’s communications landscape it is possible to know precisely who you are communicating with and how they feel about it.
+I normally write slightly longer posts, but I just wanted to take a moment to share one thought.
 
-  ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*Uz791wlcLHQALplYxXhUCA.jpeg)  
+I think this sentence was meaningless. It was code for “I don’t like your thing and you should feel bad.”
+
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*0EoCpgR0mVM5y2Elkqvm9A.jpeg)  
 
 
- Today, millions of people across the world post their lives, waiting for someone to listen.
+It is important to remember that in today’s communications landscape it is possible to know precisely who you are communicating with and how they feel about it.
 
- As a communications professional, it’s your job to be that person.
+![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/1*Uz791wlcLHQALplYxXhUCA.jpeg)  
 
- That’s all.
 
- Listen.
- 
- <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
-     <p style="
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-  "><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
-       <input type="text" name="email" id="tlemail" style="
-      width: 140px;
-  "></p>
-     <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
-  </form>
+Today, millions of people across the world post their lives, waiting for someone to listen.
+
+As a communications professional, it’s your job to be that person.
+
+That’s all.
+
+Listen.
+
+<form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
+<p style="
+display: flex;
+align-items: center;
+flex-direction: column;
+"><label for="tlemail">Never miss an update! Enter your email address to subscribe!</label>
+<input type="text" name="email" id="tlemail" style="
+width: 140px;
+"></p>
+<input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe Now">
+</form>
