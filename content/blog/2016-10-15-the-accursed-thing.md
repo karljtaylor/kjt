@@ -5,7 +5,7 @@ author = "karl taylor"
 title= "The Accursed Thing."
 type = "post"
 +++
-[embed]https://www.youtube.com/watch?v=NksWZogTN6c[/embed]
+{{< youtube NksWZogTN6c >}}
 
 I probably owe [bhorowitz](https://medium.com/u/926899f38323) most of a sandwich, and if you give me a few minutes, I’ll explain why.
 

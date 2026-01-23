@@ -9,7 +9,7 @@ A few weeks ago, we were working with a client that had been relying on an integ
 
 Here’s an easy way to fix this in Google sheets.
 
-[embed]https://youtu.be/Zw0Ne1dWCSg[/embed]
+{{< youtube Zw0Ne1dWCSg >}}
 
 <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
 <p style="

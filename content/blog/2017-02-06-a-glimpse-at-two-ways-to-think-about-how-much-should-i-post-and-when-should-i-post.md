@@ -13,7 +13,7 @@ I probably spend more time than I should these days working with in rooms that h
 
 Which…is why when I noticed this.
 
-[embed]https://twitter.com/JoeNBC/status/828583948053860352[/embed]
+<blockquote class="twitter-tweet"><a href="https://twitter.com/JoeNBC/status/828583948053860352"></a></blockquote><script async src="https://platform.twitter.com/widgets.js"></script>
 
 I figured it was as good a time as any to talk about the two different ways I’ve seen people talk about how frequently they post and how much content they need to create in order to maximize distribution.
 
@@ -23,7 +23,7 @@ There are probably more ways to think about this than just these two, and I’ve
 
 I didn’t have a clip-maker handy at the time of writing, so I’ve linked directly to the relevant video clip. We’re interested in the spot between :05 and :25 or so, and we’re really only interested in a few seconds between :05 and :09ish.
 
-[embed]https://twitter.com/Morning\_Joe/status/828580403027906560[/embed]
+<blockquote class="twitter-tweet"><a href="https://twitter.com/Morning_Joe/status/828580403027906560"></a></blockquote><script async src="https://platform.twitter.com/widgets.js"></script>
 
 There really isn’t any situation where you should see your organic reach fall to zero — on any platform.
 

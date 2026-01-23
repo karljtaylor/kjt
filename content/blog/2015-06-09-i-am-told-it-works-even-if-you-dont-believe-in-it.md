@@ -14,11 +14,11 @@ I've just found a unicorn.  I took the opportunity to walk through my neighborho
 
 Do you believe in magic?  It must have been rough trying to sell ads back when there was no real way to guarantee who saw them. In deference to my lack of experience with this rather…dated…medium, here’s a quick primer to get you up to speed.
 
-[embed]http://yourbusiness.azcentral.com/billboards-work-24581.html[/embed]
+[http://yourbusiness.azcentral.com/billboards-work-24581.html](http://yourbusiness.azcentral.com/billboards-work-24581.html)
 
 (to be honest, I always describe it this way)
 
-[embed]https://www.youtube.com/watch?v=18AFfUHmoBY[/embed]
+{{< youtube 18AFfUHmoBY >}}
 
 So, they know I’m walking towards Safeway…where’s the magic?
 
@@ -44,7 +44,7 @@ p.s.
 
 I’d be remiss if I didn’t mention what is literally the only functional case of QR code usage I have ever seen — @50Back
 
-[embed]http://yourbusiness.azcentral.com/billboards-work-24581.html[/embed]
+[http://yourbusiness.azcentral.com/billboards-work-24581.html](http://yourbusiness.azcentral.com/billboards-work-24581.html)
 
 Empowering socially conscious consumers to “Buy a Beer” for a Soldier (or other charity) by scanning a code on the bottle makes sense. It meets the customers where they are, and it gives them a reason to engage.
 

@@ -25,7 +25,7 @@ There’s an old Voice Of San Diego story, [Debbie Kinsinger](https://twitter.co
 >
 >  I share that story, not for any of its own merits. Rather, I share it because a few days ago, I noticed this:
 
-[embed]http://www.pow-miafamilies.org/events/congressional-actions/[/embed]
+[http://www.pow-miafamilies.org/events/congressional-actions/](http://www.pow-miafamilies.org/events/congressional-actions/)
 
 There are some delightful sentiments, I suppose but it’s hard to admit that we live in an era where even such transparent granstanding can’t see the light of day. That’s worse than a diservice. It’s an insult.
 

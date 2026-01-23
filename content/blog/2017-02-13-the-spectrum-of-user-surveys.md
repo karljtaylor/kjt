@@ -15,7 +15,7 @@ I know, because I’ve been part of the problem on this one.
 
 Don’t believe me? Here’s a video I found and reuploaded from a few years ago. It’s in a folder with a very strongly worded readme all about what was going on at the time.
 
-[embed]https://youtu.be/LBc0rOJhJ3Y[/embed]
+{{< youtube LBc0rOJhJ3Y >}}
 
 The trouble with advice like this, is that user surveys happen in one of two ways.
 

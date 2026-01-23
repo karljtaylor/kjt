@@ -36,18 +36,18 @@ It might take a few tries, but you’ll notice they come towards the source of t
 
 Alternatively, you can give this video a look. Try to avoid watching with sound if you’re sensitive to language. (I spent fifteen minutes trying to find an alternative, consider it a testament to the pain.)
 
-[embed]https://www.youtube.com/watch?v=gfjV4BbXfZU[/embed]
+{{< youtube gfjV4BbXfZU >}}
 
 ![](https://raw.githubusercontent.com/karljtaylor/kjt/blog/content/assets/daaf2-1xjrckabstyp595eblq4p3a.png)  
 
 
 The arrow-headed shape of the barbs on some varieties contribute to the pain.
 
-[embed]https://www.youtube.com/watch?v=Yi7VZHzF9C0[/embed]
+{{< youtube Yi7VZHzF9C0 >}}
 
 Some varieties even leave a salt behind.
 
-[embed]https://www.youtube.com/watch?v=dJzTse9Dsaw[/embed]
+{{< youtube dJzTse9Dsaw >}}
 
 Sometimes when I think I about working in advertising, I’m reminded of walking through a garden of cacti.
 

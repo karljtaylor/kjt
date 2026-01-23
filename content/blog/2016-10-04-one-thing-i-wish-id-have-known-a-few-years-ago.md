@@ -13,7 +13,7 @@ Over the past few weeks, I’ve been working to establish processes around the w
 
 On some degree of reflection, we decided that we probably couldn’t sell a thing we didn’t do for ourselves in good conscious. I came up with a number of common conditions people run into when they’re starting out, and decided that we would create our program with the same limitations.
 
-[embed]https://www.youtube.com/watch?v=UGFvhxP9MH8[/embed]
+{{< youtube UGFvhxP9MH8 >}}
 
 A lot of the time we advertisers think of a problem as being solved when the last thing that has to be done is spend on media dollars. There’s a lot of things that have to to happen before somebody actually gets to this place.
 
