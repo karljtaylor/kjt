@@ -1,0 +1,62 @@
+# robots.txt for blog.karljtaylor.com
+# Updated: 2026-02-03
+# Policy: Full AI crawler access for personal brand visibility
+
+# Standard search engines - full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Google AI Features (AI Overviews, Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# OpenAI (ChatGPT browsing, GPT training)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic (Claude)
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Common Crawl (foundational for many LLMs)
+User-agent: CCBot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+# Amazon AI
+User-agent: Amazonbot
+Allow: /
+
+# ByteDance (TikTok AI features)
+User-agent: Bytespider
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Default for unknown bots
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blog.karljtaylor.com/sitemap.xml
