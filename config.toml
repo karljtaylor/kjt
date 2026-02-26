@@ -86,7 +86,7 @@ secret = "ENCRYPTED_SECRET"
 sitekey = "SITE_KEY"
 [permalinks]
 post = "/post/:filename/"
-[social]
+[params.social]
 behance = "karljtaylor"
 email = "hello@karljtaylor.com"
 facebook = "rolyatjlrak"
@@ -100,3 +100,8 @@ telegram = "karljtaylor"
 twitter = "karljtaylor"
 whatsapp = "+17206190810"
 youtube = "channel/UCUl7hXpIVxQHdwWIAzkzdmA"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
