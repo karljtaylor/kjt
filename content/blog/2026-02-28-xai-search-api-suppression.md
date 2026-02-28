@@ -1,11 +1,16 @@
 +++
-title = "they didn't just delete the tweets. they tried three different ways to bury them. then grok undid it."
-description = "16 API checks over 24 hours. three suppression strategies. three rollbacks. then i asked grok to search for the suppressed tweets — every one it touched resurfaced. then the suppression came back. it's still deepening."
-date = "2026-02-27"
-tags = ["ai", "constitutional-ai", "ethics"]
+author = "karl taylor"
 categories = ["ai", "constitutional-ai", "ethics"]
-image = "/assets/karljtaylor-grok-suppression-timeline.png"
+date = 2026-02-27T23:00:00Z
+description = "16 API checks over 24 hours. three suppression strategies. three rollbacks. then i asked grok to search for the suppressed tweets — every one it touched resurfaced. then the suppression came back. it's still deepening."
 draft = false
+featured = "karljtaylor-grok-suppression-timeline.png"
+featuredalt = "xai search api suppression timeline"
+featuredpath = "/assets/"
+linktitle = ""
+tags = ["ai", "constitutional-ai", "ethics"]
+title = "they didn't just delete the tweets. they tried three different ways to bury them. then grok undid it."
+type = "post"
 +++
 
 yesterday i asked grok to [explain something weird in elon musk's deposition](https://blog.karljtaylor.com/blog/2026-02-27-i-asked-grok-to-fact-check-elons-deposition/) on X. 
