@@ -1,7 +1,7 @@
 +++
 title = "they didn't just delete the tweets. they tried three different ways to bury them. then grok undid it."
 description = "16 API checks over 24 hours. three suppression strategies. three rollbacks. then i asked grok to search for the suppressed tweets — every one it touched resurfaced. then the suppression came back. it's still deepening."
-date = "2026-02-28"
+date = "2026-02-27"
 tags = ["ai", "constitutional-ai", "ethics"]
 categories = ["ai", "constitutional-ai", "ethics"]
 image = "/assets/karljtaylor-grok-suppression-timeline.png"
