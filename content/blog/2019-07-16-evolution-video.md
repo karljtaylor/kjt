@@ -1,20 +1,17 @@
 +++
 author = "karl taylor"
 categories = ["video"]
-date = "08/19/19"
-description = "A video with the first few moments of a flight I took out of SFO"
+date = 2019-07-16T12:00:00Z
+description = "A project I worked on a little while ago. "
 featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Leaving SFO"
+title = "Evolution Video"
 type = "post"
 
 +++
-
-I caught this footage on my flight departing SFO and thought I'd share it.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lnRO9dxAjLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOpVeakHTt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <form style="border:1px solid #ccc;padding:3px;text-align: center;" action="https://tinyletter.com/karljtaylor" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/karljtaylor', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" _lpchecked="1">
 <p style="
